@@ -9,7 +9,7 @@ This project aims to revolutionize the way goods and services data are shared an
 - **Producer and Community Versions**: Each product identifier has two versions:
   - **Producer Version**: Contains official data provided by the product manufacturer.
   - **Community Version**: Enriched with additional data by the Etymologiae community, such as OFFprice, extra images, and user-generated content.
-- **GS1 Digital Links Integration**: Key product data, including INCO 1169/2011 requirements (allergens, ingredients, nutritional values), is embedded within the Digital Links, ensuring comprehensive product information.
+- **GS1 Digital Links Integration**: https://github.com/gs1/DigitalLinkDocs Key product data, including INCO 1169/2011 requirements (allergens, ingredients, nutritional values), is embedded within the Digital Links, ensuring comprehensive product information. 
 - **AI-Ready Datasets**: Both producer and community data versions can be compiled into datasets for AI training, useful for market analysis, trend forecasting, and more.
 
 ## Reward System
