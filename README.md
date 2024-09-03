@@ -1,7 +1,7 @@
 # Etymologiae 2.0
 
 ## Overview
-This project aims to revolutionize the way product data is shared and accessed by leveraging decentralized technologies. By utilizing magnet links and torrent files, we enable global, resilient access to goods of services information, reducing reliance on centralized servers and empowering both producers and consummers to contribute and maintain up-to-date datasets.
+This project aims to revolutionize the way goods and services data are shared and accessed by leveraging decentralized technologies. By utilizing magnet links and torrent files, we enable global, resilient access to goods and services information, reducing reliance on centralized servers and empowering both producers and consummers to contribute and maintain up-to-date datasets.
 
 ## Key Features
 - **Decentralized Data Sharing**: Products and services datas are shared via magnet links and torrents, making it accessible globally without the need for centralized infrastructure.
