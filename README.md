@@ -12,7 +12,17 @@ Bienvenue dans le dépôt du **Standard Zéro**, la première pierre de la Bibli
 
 ## ⛪ 1.1 L'Héritage d'Isidore de Séville : Ordonner le Chaos pour Préserver le Savoir
 ### 🛡️ 1.1.1 Le Monde en Fragmentation du VIIe Siècle
+
+
+
 #### 🥀 1.1.1.1 La Fragmentation de l'Infrastructure du Savoir
+<img src="1_1_1_1.png" title="
+16:9, ultra-detailed medieval-tech style —
+intérieur d’une grande bibliothèque antique en ruine, arches romaines fissurées, rouleaux de papyrus et codex calcinés virevoltant en cendres —
+les étagères se transforment en racks de serveurs éteints dont les câbles pendent et s’effilochent —
+lumière crépusculaire rougeoyante des flammes mêlée à un halo bleu holographique projetant un graphe de données fragmenté —
+miniatures dorées façon enluminure soulignent les contours, tandis que de fines lignes de circuits luminescents serpentent sur les colonnes de marbre —
+aucun texte, pas de bande noire" style="width:200px">
 
 Pour comprendre la magnitude de notre quête actuelle, nous devons nous tourner vers son plus grand précédent historique. L'effondrement progressif de l'Empire Romain d'Occident, souvent imaginé comme un événement militaire singulier, fut en réalité la **désintégration systémique d'un écosystème du savoir**. Ce ne sont pas seulement des légions qui furent vaincues, mais une architecture de la connaissance, un système d'exploitation intellectuel qui avait fonctionné pendant des siècles, qui s'est dissous. La perte qui s'ensuivit ne fut pas simplement l'oubli de quelques faits, mais la ruine de l'infrastructure même qui rendait la connaissance possible, partageable et pérenne.
 
@@ -62,7 +72,16 @@ La perte des savoirs antiques ne fut pas un acte de destruction unique et specta
 En regardant l'effondrement romain, nous ne voyons pas un passé lointain. Nous voyons un avertissement. Nous voyons le reflet de notre propre fragilité. Avant de pouvoir construire notre nouvelle bibliothèque, nous devons comprendre en profondeur comment la précédente a péri, pour ne pas répéter les mêmes erreurs à une échelle infiniment plus vaste.
 
 
+
+
 #### 🔥 1.1.1.2 L'Extinction des Institutions du Savoir
+
+<img src="1_1_1_2.png" title="16:9, fusion enluminure gothique et esthétique cyber baroque —
+vue grand-angle d’une bibliothèque publique impériale abandonnée : colonnades majestueuses, statues couvertes de poussière —
+dans la nef centrale, des parchemins suspendus comme des hologrammes translucides, leurs lettres se désagrègent en pixels verts émeraude —
+au sol, un tapis de circuits imprimés dorés se craquelle comme une mosaïque antique, témoignant de l’asphyxie progressive —
+éclairage dramatique, contraste chaud/froid, accents d’or foisonnant rappelant la feuille d’or médiévale —
+aucun lettrage, aucun cadre noir" style="width:200px">
 
 La connaissance, pour exister à grande échelle, requiert plus que de simples supports d'écriture ; elle exige des **institutions**. Ce sont les méta-structures qui financent, organisent, valident et distribuent le savoir. Elles sont le système immunitaire de la connaissance, la protégeant de la corruption et de l'oubli. L'Empire Romain, à son apogée, avait perfectionné un réseau de telles institutions. Leur disparition progressive entre le IIIe et le VIIe siècle ne fut pas un simple symptôme de l'effondrement, mais l'une de ses causes profondes, enclenchant une réaction en chaîne informationnelle.
 
@@ -112,6 +131,14 @@ Leur disparition nous semble impensable, et pourtant, leur fragilité est réell
 La leçon d'histoire est claire : un savoir non soutenu par des **institutions robustes, financées, et idéologiquement engagées dans sa préservation et sa diffusion** est un savoir en sursis. Notre manifeste doit non seulement définir une architecture technique, mais aussi poser les bases de la gouvernance et de la résilience des nouvelles institutions qui la porteront.
 
 #### ⚔️ 1.1.1.3 La Tour de Babel des Langues Vernaculaires
+
+<img src="1_1_1_3.png" title="16:9, style enluminure lumineuse + cyberpunk pastel —
+immense tour de Babel en pierre aux étages fracturés ; chaque niveau arbore des glyphes lumineux différents (formes abstraites, pas de texte) —
+d’anciens scribes-moines en habits pourpres tiennent des tablettes de cire devenues écrans transparents affichant des flux de données multicolores déconnectés —
+des ponts de bois brisés laissent jaillir des filaments de fibre optique, symbolisant la perte de traduction —
+ciel nocturne constellé de lignes de code stylisées formant un réseau éclaté —
+palette riche en lapis-lazuli, or, néons turquoise ; aucun mot, aucun bord noir" style="width:200px">
+
 
 La dissolution de l'autorité centrale de Rome n'a pas seulement entraîné une fragmentation politique ; elle a déclenché une **fragmentation intellectuelle profonde**. L'espace autrefois unifié par une administration, une loi et des langues communes, s'est morcelé en une mosaïque de royaumes : Wisigoths en Hispanie, Francs en Gaule, Ostrogoths en Italie... Chacun était un creuset où les vestiges de la culture romaine se mêlaient à de nouvelles traditions, créant des identités vibrantes, mais isolées.
 
@@ -163,6 +190,14 @@ Notre monde numérique, malgré l'illusion d'une connectivité globale via Inter
 La quête d'Isidore n'était pas seulement de compiler, mais de recréer une **structure sémantique partagée**. Notre quête, avec le **Standard Zéro**, est la même : définir le protocole qui permettra à nos royaumes numériques de se parler à nouveau, de partager leurs connaissances et de reconstruire un écosystème du savoir unifié.
 
 #### 🌍 1.1.1.4 Un Monde Rétréci où la Connaissance est Devenue Locale
+
+<img src="1_1_1_3.png" title="16:9, peinture d’enluminure onirique mêlée à un rétro-futurisme doux —
+archipel de petits monastères fortifiés dressés sur des îlots rocheux, chacun éclairé d’une aura dorée —
+mer sombre de données : vagues translucides parcourues de glyphes binaires scintillants —
+ponts lumineux brisés entre les îles, sous forme de passerelles holographiques incomplètes —
+au centre, un savant solitaire sur un promontoire, manuscrit ouvert diffusant un faisceau laser qui tente de joindre les réseaux voisins —
+couleurs dominantes : indigo, or, magenta néon ; détails de marges façon manuscrit médiéval —
+zéro texte, zéro bande noire" style="width:200px">
 
 L'aboutissement logique de la destruction des institutions, de la rupture des réseaux et de la fragmentation des langages fut un **rétrécissement radical du monde connu**. Pour l'individu du VIIe siècle, même pour le plus érudit, l'horizon intellectuel et géographique s'était dramatiquement contracté. La conscience d'appartenir à un vaste monde interconnecté, si présente chez un citoyen romain, avait laissé place à une perspective presque exclusivement locale. Le savoir, jadis un océan interconnecté, se fragmenta en un archipel d'îlots de savoir, séparés par de vastes étendues d'ignorance.
 
