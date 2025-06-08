@@ -293,14 +293,30 @@ La leçon est directe : sans une **infrastructure de ponts sémantiques**, sans 
 
 <img src="1_1_2_1.png" title="16:9, fusion enluminure gothique et tech baroque — vaste scriptorium wisigothique illuminé par des vitraux de données : tables de copistes alignées à perte de vue, rouleaux et codex empilés formant une pyramide centrale rayonnante — autour, des moines-scribes portent des chasubles pourpres incrustées de circuits dorés ; leurs plumes d’oie deviennent des stylets holographiques copiant des glyphes lumineux — au sommet de la pyramide, un halo d’or projette des flux de symboles carbonisés qui se recomposent en fractales bleutées — arrière-plan sombre, lueurs turquoise et lapis-lazuli, rehauts d’or folioté façon enluminure — aucun texte, aucun cadre noir" style="max-width:400px; max-height: 300px">
 
-Face à un monde qui se délitait, où les textes se perdaient et la mémoire collective s'effaçait, Isidore de Séville conçut un projet d'une ambition presque insensée : les *Etymologiae*. Son objectif était de **préserver l'essentiel du savoir accessible dans son contexte wisigothique**, en le rassemblant dans un ouvrage monumental et unifié. Ce n'était pas une simple compilation, mais une tentative de sauvegarder le savoir classique et chrétien, telle une arche intellectuelle destinée à permettre aux idées de traverser le déluge de l'ignorance.
+Face à un monde qui se délitait, où les textes se perdaient et la mémoire collective s'effaçait, Isidore de Séville conçut un projet d'une ambition presque insensée : les *Etymologiae*. Son objectif était de **préserver l'essentiel du savoir accessible dans son contexte wisigothique**, en le rassemblant dans un ouvrage monumental et unifié. 
+
+<img src="1_1_2_1_A.png" title="Triptyque 1 — « L’Ambition-Arche d’Isidore »
+16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: chaos d’un monde tardo-romain en ruine sous ciel pourpre ; bibliothèques effondrées, papyrus incandescents dérivant comme données perdues ; mer rouge d’ignorance monte —
+CENTER panel: Isidore de Séville, auréolé d’or et de circuits turquoise, dresse un colossal codex-arche gondolé de glyphes lumineux ; il recueille rouleaux, tablettes holographiques, bustes de philosophes ; vagues d’encre noire se brisent sur la coque du livre —
+RIGHT panel: arche-codex vogue sur déluge numérique : eaux sombres semées de fragments de textes brûlés ; au loin, aube lapis-lazuli, faisceaux d’arc-en-ciel sortant du livre irriguent un futur radieux —
+Palette lapis, pourpre, braises orangées, riches rehauts or micro-enluminés ; contraste chaud/froid dramatique ; aucun texte
+" style="max-width:400px; max-height: 300px">
+
+Ce n'était pas une simple compilation, mais une tentative de sauvegarder le savoir classique et chrétien, telle une arche intellectuelle destinée à permettre aux idées de traverser le déluge de l'ignorance.
 
 Cette ambition est le cœur de son héritage et l'inspiration de notre propre projet.
 
 ---
 
 ##### 📚 **Un Répertoire Centralisé sur Parchemin**
-
+<img src="1_1_2_1_B.png" title="Triptyque 2 — « Répertoire Centralisé sur Parchemin »
+16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: gigantesque salle d’archives wisigothique ; murs de rouleaux et codices illuminés, sept arts libéraux personnifiés en statues scintillantes ; voies optiques colorées relient chaque domaine du savoir —
+CENTER panel: vue zénithale d’une “table” planétaire : Isidore inscrit des centaines de sources ; chaque citation devient un ruban de lumière convergeant vers un noyau de parchemin central formant un data-lake textuel ; halo or-turquoise —
+RIGHT panel: progression temporelle : vague chronologique de livres du savoir classique jusqu’à théologie ; lignes d’or montrent la synthèse, fragments grecs / latins fusionnent en circuit imprimé parcheminé ; sable du temps coule mais le répertoire reste intact —
+Palette indigo profond, émeraude, magenta pastel, foison d’or enluminé
+" style="max-width:400px; max-height: 300px">
 L'ampleur de l'entreprise d'Isidore est difficile à saisir avec nos mentalités modernes.
 
 *   **L'Exhaustivité comme Objectif :** Isidore a cherché à couvrir, de manière quasi exhaustive, les domaines de la connaissance accessibles à son époque : des sept arts libéraux (le socle de l'éducation) à la médecine, au droit, à la théologie, en passant par la zoologie, l'architecture, l'agriculture ou la guerre.
@@ -310,7 +326,13 @@ L'ampleur de l'entreprise d'Isidore est difficile à saisir avec nos mentalités
 *   **Une Œuvre d'une Vie :** La rédaction des *Etymologiae* a occupé les dernières décennies de la vie d'Isidore. Cette échelle de temps nous rappelle que la construction d'une infrastructure de connaissance n'est pas un sprint, mais un marathon.
 
 ##### 🎯 **Plus qu'une Compilation : Un Acte de Triage et de Structuration**
-
+<img src="1_1_2_1_C.png" title="Triptyque 3 — « Triage et Structuration du Savoir »
+16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: chaos documentaire : piles indomptées de rouleaux contradictoires, flux d’erreurs rouges et bleus, variables non résolues tourbillonnant —
+CENTER panel: Isidore en scribe-architecte, debout dans un cercle magique de circuits dorés ; il tient une plume-stylet holographique triant les textes ; fragments se réorganisent en colonnes ordonnées, tags colorés, checksum runes ; un portail “API” unifié s’ouvre comme rosace lumineuse —
+RIGHT panel: grande bibliothèque gothique ; étagères impeccables de vingt tomes enluminés, 448 rubans-signets laser formant un graphe stable ; érudits médiévaux et drones savants consultent le même volume-référence, flux cyan sortant vers réseaux futurs —
+Palette violet crépusculaire, cyan glacé, or foisonnant, touches écarlate ; micro-ornements médiévaux sur bordures des trois panneaux
+" style="max-width:400px; max-height: 300px">
 Le génie d'Isidore fut de comprendre que pour sauver la connaissance, il ne suffisait pas de l'accumuler ; il fallait **l'organiser**.
 
 *   **Le Triage comme Responsabilité :** Face à des sources souvent contradictoires, Isidore a dû faire des choix, sélectionnant ce qui lui paraissait le plus fiable. Cet acte de curation, bien que teinté par son époque, est l'équivalent du "nettoyage" et de la "qualification" des données.
