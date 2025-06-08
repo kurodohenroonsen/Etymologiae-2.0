@@ -156,12 +156,17 @@ palette riche en lapis-lazuli, or, néons turquoise ; aucun mot, aucun bord noir
 
 La dissolution de l'autorité centrale de Rome n'a pas seulement entraîné une fragmentation politique ; elle a déclenché une **fragmentation intellectuelle profonde**. L'espace autrefois unifié par une administration, une loi et des langues communes, s'est morcelé en une mosaïque de royaumes : Wisigoths en Hispanie, Francs en Gaule, Ostrogoths en Italie... Chacun était un creuset où les vestiges de la culture romaine se mêlaient à de nouvelles traditions, créant des identités vibrantes, mais isolées.
 
+
+<img src="1_1_1_3_A.png" title="/imagine 16:9 ultra-detailed medieval-tech style, twilight panorama of a ruined Roman city, shattered libraries, basilicas and senate halls fused with charred server skyscrapers, broken arches and aqueducts dripping melted fibre-optic cables, burning papyrus fragments drift as lost data packets, cracked mosaic pavement overlaid with turquoise PCB traces, distant blue hologram of a fragmented knowledge graph losing nodes, palette lapis-lazuli, imperial purple, glowing ember orange, gilded highlights like illuminated manuscript, dramatic warm–cool contrast, no lettering
+" style="max-width:400px; max-height: 300px">
+
 Cette fragmentation a érigé des murs invisibles mais infranchissables : les murs du langage. C'est l'équivalent d'un réseau mondial qui se briserait en une multitude de réseaux locaux, chacun avec son propre protocole, rendant tout échange direct impossible.
 
 ---
 
 ##### 🗣️ **Le Déclin du Protocole Sémantique Partagé**
-
+<img src="1_1_1_3_B.png" title="/imagine 16:9 ultra-detailed medieval-tech style, twilight panorama of a ruined Roman city, shattered libraries, basilicas and senate halls fused with charred server skyscrapers, broken arches and aqueducts dripping melted fibre-optic cables, burning papyrus fragments drift as lost data packets, cracked mosaic pavement overlaid with turquoise PCB traces, distant blue hologram of a fragmented knowledge graph losing nodes, palette lapis-lazuli, imperial purple, glowing ember orange, gilded highlights like illuminated manuscript, dramatic warm–cool contrast, no lettering
+" style="max-width:400px; max-height: 300px">
 Le latin classique, et dans une moindre mesure le grec koinè, était bien plus qu'une langue. C'était un **protocole sémantique partagé**. Il permettait à un administrateur en Bretagne et à un poète à Rome de partager des concepts abstraits (juridiques, philosophiques, scientifiques) avec une précision remarquable. C'était la couche applicative qui garantissait l'interopérabilité des savoirs.
 
 *   **La Fragmentation Linguistique :** Avec la disparition des écoles impériales, le latin parlé a commencé à diverger rapidement, évoluant différemment dans chaque région pour donner naissance aux futures langues romanes.
@@ -169,7 +174,8 @@ Le latin classique, et dans une moindre mesure le grec koinè, était bien plus 
 *   **L'Isolation des Savoirs :** Le latin cessa d'être une langue vivante partagée, tout en demeurant la *lingua franca* écrite de l'Église et des savants pour des siècles. Il devint une langue savante, un "langage d'assemblage" connu seulement d'une petite caste de "programmeurs" (les clercs). Un savant en Irlande pouvait lire Virgile, mais ne pouvait plus débattre facilement avec un érudit en Italie. Chaque centre de savoir développa ses propres conventions d'accès, comme autant de bases de données aux interfaces incompatibles.
 
 ##### 🚧 **La Perte de la Traduction comme Pont Culturel**
-
+<img src="1_1_1_3_C.png" title="/imagine 16:9 ultra-detailed medieval-tech style, twilight panorama of a ruined Roman city, shattered libraries, basilicas and senate halls fused with charred server skyscrapers, broken arches and aqueducts dripping melted fibre-optic cables, burning papyrus fragments drift as lost data packets, cracked mosaic pavement overlaid with turquoise PCB traces, distant blue hologram of a fragmented knowledge graph losing nodes, palette lapis-lazuli, imperial purple, glowing ember orange, gilded highlights like illuminated manuscript, dramatic warm–cool contrast, no lettering
+" style="max-width:400px; max-height: 300px">
 Dans le monde cosmopolite de l'Empire, la traduction était une activité essentielle qui assurait la fertilisation croisée des idées, notamment du grec vers le latin.
 
 *   **Le Tarissement des Compétences :** La connaissance bilingue (latin-grec) se raréfia, subsistant dans quelques foyers d'exception comme l'Italie du Sud ou certains monastères. Des œuvres fondamentales de la pensée grecque, comme celles de Platon ou d'Aristote, n'étaient plus accessibles qu'à travers un nombre limité de traductions anciennes.
@@ -177,7 +183,8 @@ Dans le monde cosmopolite de l'Empire, la traduction était une activité essent
 *   **La Disparition des Ponts avec l'Extérieur :** La rupture avec l'Empire byzantin, gardien de l'héritage grec, et le peu de contact avec le monde islamique naissant, ont encore accentué cet isolement. Le savoir médical, astronomique et philosophique qui continuait de prospérer ailleurs est devenu largement inaccessible à l'Europe occidentale pendant des siècles, la transformant en un **système d'information fermé**.
 
 ##### 🌍 **Une Vision du Monde Morcelée**
-
+<img src="1_1_1_3_D.png" title="/imagine 16:9 ultra-detailed medieval-tech style, twilight panorama of a ruined Roman city, shattered libraries, basilicas and senate halls fused with charred server skyscrapers, broken arches and aqueducts dripping melted fibre-optic cables, burning papyrus fragments drift as lost data packets, cracked mosaic pavement overlaid with turquoise PCB traces, distant blue hologram of a fragmented knowledge graph losing nodes, palette lapis-lazuli, imperial purple, glowing ember orange, gilded highlights like illuminated manuscript, dramatic warm–cool contrast, no lettering
+" style="max-width:400px; max-height: 300px">
 La conséquence la plus profonde de cette fragmentation fut la perte d'une cosmologie partagée, d'une compréhension commune du monde.
 
 *   **Du Global au Local :** La géographie systématique de Ptolémée, qui offrait une vision globale du monde connu, a été souvent remplacée par des cartes locales ou symboliques (les cartes en T-O), où la théologie primait sur l'observation.
