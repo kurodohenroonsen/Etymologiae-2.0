@@ -16,7 +16,7 @@ Bienvenue dans le dépôt du **Standard Zéro**, la première pierre de la Bibli
 
 
 #### 🥀 1.1.1.1 La Fragmentation de l'Infrastructure du Savoir
-<img src="1_1_1_1.png" title="
+<img src="img/1_1_1_1.png" title="
 16:9, ultra-detailed medieval-tech style —
 intérieur d’une grande bibliothèque antique en ruine, arches romaines fissurées, rouleaux de papyrus et codex calcinés virevoltant en cendres —
 les étagères se transforment en racks de serveurs éteints dont les câbles pendent et s’effilochent —
@@ -26,12 +26,17 @@ aucun texte, pas de bande noire" style="max-width:400px; max-height: 300px">
 
 Pour comprendre la magnitude de notre quête actuelle, nous devons nous tourner vers son plus grand précédent historique. L'effondrement progressif de l'Empire Romain d'Occident, souvent imaginé comme un événement militaire singulier, fut en réalité la **désintégration systémique d'un écosystème du savoir**. Ce ne sont pas seulement des légions qui furent vaincues, mais une architecture de la connaissance, un système d'exploitation intellectuel qui avait fonctionné pendant des siècles, qui s'est dissous. La perte qui s'ensuivit ne fut pas simplement l'oubli de quelques faits, mais la ruine de l'infrastructure même qui rendait la connaissance possible, partageable et pérenne.
 
+
+<img src="img/1_1_1_1_A.png" title="16:9, ultra-detailed medieval-tech style — vaste panorama en ruines d’une cité romaine crépusculaire ; arcades et aqueducs brisés se fondent dans des racks de serveurs carbonisés, leurs LED éteintes — éclats de papyrus incandescents dérivent comme des paquets de données perdus — sol mosaïque craquelé traversé de pistes PCB turquoise — sur l’horizon, un hologramme bleu affiche un graphe de connaissances fragmenté, ses nœuds se détachant — palette lapis-lazuli, pourpre, braises orangées, rehauts d’or doré façon enluminure — aucun texte, aucun cadre noir
+" style="max-width:400px; max-height: 300px">
+
 Cette section n'est pas une leçon d'histoire ; c'est un diagnostic. C'est le miroir dans lequel nous devons observer notre propre époque, car les mécanismes de cette grande perte résonnent étrangement avec les fragilités de notre ère numérique.
 
 ---
 
 ##### 🔥 **L'Asphyxie des Contenants Physiques du Savoir**
-
+<img src="img/1_1_1_1_B.png" title="
+16:9, fusion enluminure gothique et cyber-baroque — intérieur d’une bibliothèque impériale en déliquescence ; colonnades majestueuses couvertes de poussière, statues fissurées — rouleaux de papyrus et codex se consument en cendres, devenant nuages de données pixelisées verts émeraude — rayonnages se métamorphosent en baies serveur silencieuses, câbles pendants comme lianes mortes — lumière rougeoyante des braises mêlée à halos holographiques bleutés — circuits dorés serpentent sur les colonnes de marbre, soulignés de miniatures d’or — contraste chaud/froid appuyé, aucun lettrage, aucune bordure" style="max-width:400px; max-height: 300px">
 Le savoir antique était matérialisé. Il résidait dans des objets physiques — des rouleaux de papyrus puis, de plus en plus, des codex en parchemin. L'Empire avait bâti des institutions spectaculaires pour les abriter, de véritables **centres de données de l'Antiquité**.
 
 *   **La Fin des Grandes Bibliothèques :** La plus célèbre, la Bibliothèque d'Alexandrie, était déjà en déclin, mais son sort symbolise celui de centaines d'autres à travers l'Empire. Rome elle-même abritait des bibliothèques publiques monumentales. Ces lieux n'étaient pas de simples entrepôts ; ils étaient des écosystèmes vivants. Leur déclin fut moins une affaire de destructions spectaculaires que de **lente asphyxie** : le manque d'entretien, l'abandon progressif, et le transfert de collections vers des fondations privées ou monastiques ont vidé ces institutions de leur substance. Chaque rouleau consumé, chaque codex moisi, représentait un bloc de données souvent perdu pour des siècles pour l'Occident.
@@ -39,7 +44,7 @@ Le savoir antique était matérialisé. Il résidait dans des objets physiques �
 *   **La Rupture de la Chaîne d'Approvisionnement du Savoir :** La production de papyrus, concentrée en Égypte, devint difficile d'accès après les conquêtes arabes du VIIe siècle. Le parchemin, plus robuste mais aussi bien plus coûteux, ne pouvait compenser ce déficit à grande échelle. Surtout, la "technologie" de la copie, qui était une véritable industrie dans les ateliers de scribes urbains, se perdit. Copier un livre cessa d'être un acte de diffusion pour devenir un acte de préservation, rare et précieux, souvent confiné à des monastères isolés. La connaissance ne se diffusait plus ; elle était, au mieux, mise en stase.
 
 ##### 🔗 **La Rupture des Canaux de Transmission**
-
+<img src="img/1_1_1_1_C.png" title="16:9, enluminure lumineuse + glitch cyber pastel — perspective aérienne d’un réseau de voies romaines fracturées ; pierres antiques se changent en fibres optiques arrachées — relais postaux ruinés, amphores de messages se brisent et libèrent des glyphes latins qui se dissolvent en paquets de données — ponts écroulés traversent un vide violet parcouru de fragments de code — au lointain, tours-serveurs éteintes isolées comme des ilots de signal perdu — palette indigo, rose néon, or martelé ; fines marges décoratives médiévales ; zéro texte, zéro bande noire" style="max-width:400px; max-height: 300px">
 Une bibliothèque ne vaut que par les réseaux qui y mènent. L'Empire Romain avait construit le plus formidable réseau de communication de son temps, un véritable "Internet physique" qui permettait à la connaissance de circuler.
 
 *   **L'Effondrement du Réseau Logistique :** Les fameuses voies romaines, les routes maritimes sécurisées et le service postal impérial (`cursus publicus`) ne transportaient pas que des biens et des légions ; ils transportaient des idées. Un philosophe à Lutèce pouvait débattre avec son pair à Carthage. Avec la fragmentation de l'Empire, ces routes sont devenues dangereuses ou sont tombées en désuétude. Les canaux de transmission se sont sclérosés. La connaissance, autrefois liquide, s'est retrouvée piégée dans des bassins isolés.
@@ -47,7 +52,8 @@ Une bibliothèque ne vaut que par les réseaux qui y mènent. L'Empire Romain av
 *   **L'Érosion du Langage Commun :** Le latin en Occident et le grec en Orient étaient les "protocoles d'interopérabilité sémantique" du monde antique. Ils permettaient à un ensemble hétérogène de cultures de partager des concepts abstraits. L'effondrement de l'éducation impériale a entraîné la fragmentation du latin parlé en une myriade de langues vernaculaires. Sans langage de pont commun et vivant, la traduction est devenue une barrière et la synthèse des savoirs, une gageure.
 
 ##### 📉 **Le Changement de Paradigme Culturel et Économique**
-
+<img src="img/1_1_1_1_D.png" title="16:9, oniric illuminated manuscript meets noble retro-futurism — place romaine transfigurée : d’un côté, mécènes sénatoriaux vêtus d’or distribuent rouleaux lumineux ; de l’autre, chefs de guerre en armure sombre brandissent épées et pièces de monnaie brûlantes — au centre, autel d’église projette un filtre lumineux triant les manuscrits : certains passent, d’autres se consument en cendres de données — portiques gothiques couverts de circuits, vitraux rouges et cyan scintillent — dallage mosaïque mêlant deniers romains et puces électroniques fendues — palette ambre, cyan froid, or foisonnant ; aucun mot, aucune bordure noire
+" style="max-width:400px; max-height: 300px">
 La perte la plus profonde n'est peut-être pas matérielle, mais idéologique. La structure sociale qui valorisait et finançait la connaissance classique s'est effondrée.
 
 *   **La Fin du Mécénat :** L'aristocratie sénatoriale et les empereurs, qui finançaient bibliothèques et écoles, ont été remplacés par des chefs de guerre dont les priorités étaient la survie et la conquête. L'économie s'est contractée, et le "budget" alloué à la connaissance abstraite a disparu.
@@ -76,7 +82,7 @@ En regardant l'effondrement romain, nous ne voyons pas un passé lointain. Nous 
 
 #### 🔥 1.1.1.2 L'Extinction des Institutions du Savoir
 
-<img src="1_1_1_2.png" title="16:9, fusion enluminure gothique et esthétique cyber baroque —
+<img src="img/1_1_1_2.png" title="16:9, fusion enluminure gothique et esthétique cyber baroque —
 vue grand-angle d’une bibliothèque publique impériale abandonnée : colonnades majestueuses, statues couvertes de poussière —
 dans la nef centrale, des parchemins suspendus comme des hologrammes translucides, leurs lettres se désagrègent en pixels verts émeraude —
 au sol, un tapis de circuits imprimés dorés se craquelle comme une mosaïque antique, témoignant de l’asphyxie progressive —
@@ -132,7 +138,7 @@ La leçon d'histoire est claire : un savoir non soutenu par des **institutions r
 
 #### ⚔️ 1.1.1.3 La Tour de Babel des Langues Vernaculaires
 
-<img src="1_1_1_3.png" title="16:9, style enluminure lumineuse + cyberpunk pastel —
+<img src="img/1_1_1_3.png" title="16:9, style enluminure lumineuse + cyberpunk pastel —
 immense tour de Babel en pierre aux étages fracturés ; chaque niveau arbore des glyphes lumineux différents (formes abstraites, pas de texte) —
 d’anciens scribes-moines en habits pourpres tiennent des tablettes de cire devenues écrans transparents affichant des flux de données multicolores déconnectés —
 des ponts de bois brisés laissent jaillir des filaments de fibre optique, symbolisant la perte de traduction —
@@ -191,7 +197,7 @@ La quête d'Isidore n'était pas seulement de compiler, mais de recréer une **s
 
 #### 🌍 1.1.1.4 Un Monde Rétréci où la Connaissance est Devenue Locale
 
-<img src="1_1_1_4.png" title="16:9, peinture d’enluminure onirique mêlée à un rétro-futurisme doux —
+<img src="img/1_1_1_4.png" title="16:9, peinture d’enluminure onirique mêlée à un rétro-futurisme doux —
 archipel de petits monastères fortifiés dressés sur des îlots rocheux, chacun éclairé d’une aura dorée —
 mer sombre de données : vagues translucides parcourues de glyphes binaires scintillants —
 ponts lumineux brisés entre les îles, sous forme de passerelles holographiques incomplètes —
@@ -248,7 +254,7 @@ La leçon est directe : sans une **infrastructure de ponts sémantiques**, sans 
 ### 📖💡 1.1.2 Les *Etymologiae* : Une Architecture pour le Savoir
 #### ✨ 1.1.2.1 L'Ambition Démesurée : Créer un Répertoire de Référence pour un Monde en Oubli
 
-<img src="1_1_2_1.png" title="16:9, fusion enluminure gothique et tech baroque — vaste scriptorium wisigothique illuminé par des vitraux de données : tables de copistes alignées à perte de vue, rouleaux et codex empilés formant une pyramide centrale rayonnante — autour, des moines-scribes portent des chasubles pourpres incrustées de circuits dorés ; leurs plumes d’oie deviennent des stylets holographiques copiant des glyphes lumineux — au sommet de la pyramide, un halo d’or projette des flux de symboles carbonisés qui se recomposent en fractales bleutées — arrière-plan sombre, lueurs turquoise et lapis-lazuli, rehauts d’or folioté façon enluminure — aucun texte, aucun cadre noir" style="max-width:400px; max-height: 300px">
+<img src="img/1_1_2_1.png" title="16:9, fusion enluminure gothique et tech baroque — vaste scriptorium wisigothique illuminé par des vitraux de données : tables de copistes alignées à perte de vue, rouleaux et codex empilés formant une pyramide centrale rayonnante — autour, des moines-scribes portent des chasubles pourpres incrustées de circuits dorés ; leurs plumes d’oie deviennent des stylets holographiques copiant des glyphes lumineux — au sommet de la pyramide, un halo d’or projette des flux de symboles carbonisés qui se recomposent en fractales bleutées — arrière-plan sombre, lueurs turquoise et lapis-lazuli, rehauts d’or folioté façon enluminure — aucun texte, aucun cadre noir" style="max-width:400px; max-height: 300px">
 
 Face à un monde qui se délitait, où les textes se perdaient et la mémoire collective s'effaçait, Isidore de Séville conçut un projet d'une ambition presque insensée : les *Etymologiae*. Son objectif était de **préserver l'essentiel du savoir accessible dans son contexte wisigothique**, en le rassemblant dans un ouvrage monumental et unifié. Ce n'était pas une simple compilation, mais une tentative de sauvegarder le savoir classique et chrétien, telle une arche intellectuelle destinée à permettre aux idées de traverser le déluge de l'ignorance.
 
@@ -296,7 +302,7 @@ Là où Isidore a créé une arche pour préserver le savoir, nous cherchons à 
 
 #### 🔑 1.1.2.2 La Méthode Étymologique comme Outil de Classification Sémantique
 
-<img src="1_1_2_2.png" title="16:9, enluminure lumineuse mêlée à un cyber-glitch pastel — un immense arbre généalogique stylisé surgit d’un manuscrit ouvert ; chaque branche en filigrane médiéval se transforme en fibres optiques néon — les nœuds de l’arbre portent des sphères de verre irisé où tourbillonnent des lettres antiques devenues particules de données colorées — au pied de l’arbre, Isidore iconique tient une clé dorée se changeant en identifiant quantique flottant — décors gothiques richement ornés, arrière-plan indigo constellé de circuits argentés — palette lapis, or, fuchsia ; zéro lettrage, zéro bord noir" style="max-width:400px; max-height: 300px">
+<img src="img/1_1_2_2.png" title="16:9, enluminure lumineuse mêlée à un cyber-glitch pastel — un immense arbre généalogique stylisé surgit d’un manuscrit ouvert ; chaque branche en filigrane médiéval se transforme en fibres optiques néon — les nœuds de l’arbre portent des sphères de verre irisé où tourbillonnent des lettres antiques devenues particules de données colorées — au pied de l’arbre, Isidore iconique tient une clé dorée se changeant en identifiant quantique flottant — décors gothiques richement ornés, arrière-plan indigo constellé de circuits argentés — palette lapis, or, fuchsia ; zéro lettrage, zéro bord noir" style="max-width:400px; max-height: 300px">
 
 
 Au cœur du projet monumental d'Isidore de Séville se trouve une méthode qui donne son titre et sa cohérence à l'œuvre : **l'étymologie**. Pour un esprit moderne, c'est une discipline de la linguistique. Pour Isidore, c'était bien plus : une **herméneutique universelle**, une clé pour déchiffrer la nature profonde des choses. Sa conviction, ancrée dans les traditions patristiques (notamment augustinienne) et antiques, est résumée par la formule `« Nomen si nescis, perit et cognitio rerum »` ("Si tu ignores le nom, la connaissance même des choses se perd"). Le nom d'une chose n'est pas une étiquette arbitraire, mais un contenant qui recèle son essence.
@@ -357,7 +363,7 @@ L'**Identifiant Universel (IU)** est notre étymologie moderne. Il n'a aucune si
 
 #### 🕸️ 1.1.2.3 L'Organisation en Vingt Livres : Une Ontologie Hiérarchique du Monde
 
-<img src="1_1_2_3.png" title="16:9, scène en perspective isométrique mêlant enluminure romane et interface holographique — vingt grands volums reliés trônent en cercle, leurs tranches décorées de motifs végétaux dorés ; des rubans-signets se métamorphosent en faisceaux laser verts reliant les livres entre eux, dessinant un graphe 3D flottant au-dessus — le sol mosaïque alterne carreaux médiévaux et puces électroniques — pilastres sculptés portent des icônes angéliques aux ailes translucides pixelisées — éclairage bicolore : chandelles ambrées + halos cyan — détails miniatures margés en or ; pas de texte, pas de bandes noires" style="max-width:400px; max-height: 300px">
+<img src="img/1_1_2_3.png" title="16:9, scène en perspective isométrique mêlant enluminure romane et interface holographique — vingt grands volums reliés trônent en cercle, leurs tranches décorées de motifs végétaux dorés ; des rubans-signets se métamorphosent en faisceaux laser verts reliant les livres entre eux, dessinant un graphe 3D flottant au-dessus — le sol mosaïque alterne carreaux médiévaux et puces électroniques — pilastres sculptés portent des icônes angéliques aux ailes translucides pixelisées — éclairage bicolore : chandelles ambrées + halos cyan — détails miniatures margés en or ; pas de texte, pas de bandes noires" style="max-width:400px; max-height: 300px">
 
 L'ambition d'Isidore se matérialise dans la structure même de son œuvre. Les vingt livres des *Etymologiae* ne sont pas une juxtaposition aléatoire de savoirs ; ils forment une **ontologie hiérarchique**, héritière de l'encyclopédisme latin (Pline, Cassiodore). C'est sa tentative de cartographier le savoir selon une classification ordonnée, reflétant une vision du monde structurée.
 
@@ -390,7 +396,7 @@ Isidore a dessiné la carte la plus complète possible du monde tel qu'il le voy
 
 #### 🏛️ 1.1.2.4 Un Acte Fondateur : Créer une Référence Commune pour un Monde Divisé
 
-<img src="1_1_2_4.png" title="16:9, peinture d’enluminure onirique x rétro-futurisme noble — grande nef d’une cathédrale-serveur : voûtes ogivales couvertes de circuits, vitraux diffusant des flux de données arc-en-ciel — au centre, un large pupitre d’or supporte un codex géant ; des pages s’élèvent et deviennent des panneaux holographiques interconnectés formant une toile lumineuse qui relie entre eux des clercs-programmeurs dispersés dans les travées — le dallage est incrusté de motifs hexagonaux et de glyphes binaires scintillants — contrastes chaud/froid, accents feuille d’or foisonnants — aucun lettrage, aucune bordure sombre" style="max-width:400px; max-height: 300px">
+<img src="img/1_1_2_4.png" title="16:9, peinture d’enluminure onirique x rétro-futurisme noble — grande nef d’une cathédrale-serveur : voûtes ogivales couvertes de circuits, vitraux diffusant des flux de données arc-en-ciel — au centre, un large pupitre d’or supporte un codex géant ; des pages s’élèvent et deviennent des panneaux holographiques interconnectés formant une toile lumineuse qui relie entre eux des clercs-programmeurs dispersés dans les travées — le dallage est incrusté de motifs hexagonaux et de glyphes binaires scintillants — contrastes chaud/froid, accents feuille d’or foisonnants — aucun lettrage, aucune bordure sombre" style="max-width:400px; max-height: 300px">
 
 Au-delà de sa structure et de sa méthode, l'acte de créer les *Etymologiae* fut, en soi, un **événement politique et culturel majeur**. Dans un paysage européen fragmenté, l'œuvre d'Isidore de Séville représentait une force contraire : une tentative audacieuse de proposer un **socle de connaissance commun**, un terrain d'entente intellectuel sur lequel les esprits lettrés de tout l'Occident pourraient à nouveau se rencontrer.
 
