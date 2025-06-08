@@ -22,7 +22,7 @@ intérieur d’une grande bibliothèque antique en ruine, arches romaines fissur
 les étagères se transforment en racks de serveurs éteints dont les câbles pendent et s’effilochent —
 lumière crépusculaire rougeoyante des flammes mêlée à un halo bleu holographique projetant un graphe de données fragmenté —
 miniatures dorées façon enluminure soulignent les contours, tandis que de fines lignes de circuits luminescents serpentent sur les colonnes de marbre —
-aucun texte, pas de bande noire" style="width:200px">
+aucun texte, pas de bande noire" style="max-width:400px; max-height: 300px">
 
 Pour comprendre la magnitude de notre quête actuelle, nous devons nous tourner vers son plus grand précédent historique. L'effondrement progressif de l'Empire Romain d'Occident, souvent imaginé comme un événement militaire singulier, fut en réalité la **désintégration systémique d'un écosystème du savoir**. Ce ne sont pas seulement des légions qui furent vaincues, mais une architecture de la connaissance, un système d'exploitation intellectuel qui avait fonctionné pendant des siècles, qui s'est dissous. La perte qui s'ensuivit ne fut pas simplement l'oubli de quelques faits, mais la ruine de l'infrastructure même qui rendait la connaissance possible, partageable et pérenne.
 
@@ -81,7 +81,7 @@ vue grand-angle d’une bibliothèque publique impériale abandonnée : colonnad
 dans la nef centrale, des parchemins suspendus comme des hologrammes translucides, leurs lettres se désagrègent en pixels verts émeraude —
 au sol, un tapis de circuits imprimés dorés se craquelle comme une mosaïque antique, témoignant de l’asphyxie progressive —
 éclairage dramatique, contraste chaud/froid, accents d’or foisonnant rappelant la feuille d’or médiévale —
-aucun lettrage, aucun cadre noir" style="width:200px">
+aucun lettrage, aucun cadre noir" style="max-width:400px; max-height: 300px">
 
 La connaissance, pour exister à grande échelle, requiert plus que de simples supports d'écriture ; elle exige des **institutions**. Ce sont les méta-structures qui financent, organisent, valident et distribuent le savoir. Elles sont le système immunitaire de la connaissance, la protégeant de la corruption et de l'oubli. L'Empire Romain, à son apogée, avait perfectionné un réseau de telles institutions. Leur disparition progressive entre le IIIe et le VIIe siècle ne fut pas un simple symptôme de l'effondrement, mais l'une de ses causes profondes, enclenchant une réaction en chaîne informationnelle.
 
@@ -137,7 +137,7 @@ immense tour de Babel en pierre aux étages fracturés ; chaque niveau arbore de
 d’anciens scribes-moines en habits pourpres tiennent des tablettes de cire devenues écrans transparents affichant des flux de données multicolores déconnectés —
 des ponts de bois brisés laissent jaillir des filaments de fibre optique, symbolisant la perte de traduction —
 ciel nocturne constellé de lignes de code stylisées formant un réseau éclaté —
-palette riche en lapis-lazuli, or, néons turquoise ; aucun mot, aucun bord noir" style="width:200px">
+palette riche en lapis-lazuli, or, néons turquoise ; aucun mot, aucun bord noir" style="max-width:400px; max-height: 300px">
 
 
 La dissolution de l'autorité centrale de Rome n'a pas seulement entraîné une fragmentation politique ; elle a déclenché une **fragmentation intellectuelle profonde**. L'espace autrefois unifié par une administration, une loi et des langues communes, s'est morcelé en une mosaïque de royaumes : Wisigoths en Hispanie, Francs en Gaule, Ostrogoths en Italie... Chacun était un creuset où les vestiges de la culture romaine se mêlaient à de nouvelles traditions, créant des identités vibrantes, mais isolées.
@@ -197,7 +197,7 @@ mer sombre de données : vagues translucides parcourues de glyphes binaires scin
 ponts lumineux brisés entre les îles, sous forme de passerelles holographiques incomplètes —
 au centre, un savant solitaire sur un promontoire, manuscrit ouvert diffusant un faisceau laser qui tente de joindre les réseaux voisins —
 couleurs dominantes : indigo, or, magenta néon ; détails de marges façon manuscrit médiéval —
-zéro texte, zéro bande noire" style="width:200px">
+zéro texte, zéro bande noire" style="max-width:400px; max-height: 300px">
 
 L'aboutissement logique de la destruction des institutions, de la rupture des réseaux et de la fragmentation des langages fut un **rétrécissement radical du monde connu**. Pour l'individu du VIIe siècle, même pour le plus érudit, l'horizon intellectuel et géographique s'était dramatiquement contracté. La conscience d'appartenir à un vaste monde interconnecté, si présente chez un citoyen romain, avait laissé place à une perspective presque exclusivement locale. Le savoir, jadis un océan interconnecté, se fragmenta en un archipel d'îlots de savoir, séparés par de vastes étendues d'ignorance.
 
@@ -248,6 +248,8 @@ La leçon est directe : sans une **infrastructure de ponts sémantiques**, sans 
 ### 📖💡 1.1.2 Les *Etymologiae* : Une Architecture pour le Savoir
 #### ✨ 1.1.2.1 L'Ambition Démesurée : Créer un Répertoire de Référence pour un Monde en Oubli
 
+<img src="1_1_2_1.png" title="16:9, fusion enluminure gothique et tech baroque — vaste scriptorium wisigothique illuminé par des vitraux de données : tables de copistes alignées à perte de vue, rouleaux et codex empilés formant une pyramide centrale rayonnante — autour, des moines-scribes portent des chasubles pourpres incrustées de circuits dorés ; leurs plumes d’oie deviennent des stylets holographiques copiant des glyphes lumineux — au sommet de la pyramide, un halo d’or projette des flux de symboles carbonisés qui se recomposent en fractales bleutées — arrière-plan sombre, lueurs turquoise et lapis-lazuli, rehauts d’or folioté façon enluminure — aucun texte, aucun cadre noir" style="max-width:400px; max-height: 300px">
+
 Face à un monde qui se délitait, où les textes se perdaient et la mémoire collective s'effaçait, Isidore de Séville conçut un projet d'une ambition presque insensée : les *Etymologiae*. Son objectif était de **préserver l'essentiel du savoir accessible dans son contexte wisigothique**, en le rassemblant dans un ouvrage monumental et unifié. Ce n'était pas une simple compilation, mais une tentative de sauvegarder le savoir classique et chrétien, telle une arche intellectuelle destinée à permettre aux idées de traverser le déluge de l'ignorance.
 
 Cette ambition est le cœur de son héritage et l'inspiration de notre propre projet.
@@ -293,6 +295,9 @@ Là où Isidore a créé une arche pour préserver le savoir, nous cherchons à 
 
 
 #### 🔑 1.1.2.2 La Méthode Étymologique comme Outil de Classification Sémantique
+
+<img src="1_1_2_2.png" title="16:9, enluminure lumineuse mêlée à un cyber-glitch pastel — un immense arbre généalogique stylisé surgit d’un manuscrit ouvert ; chaque branche en filigrane médiéval se transforme en fibres optiques néon — les nœuds de l’arbre portent des sphères de verre irisé où tourbillonnent des lettres antiques devenues particules de données colorées — au pied de l’arbre, Isidore iconique tient une clé dorée se changeant en identifiant quantique flottant — décors gothiques richement ornés, arrière-plan indigo constellé de circuits argentés — palette lapis, or, fuchsia ; zéro lettrage, zéro bord noir" style="max-width:400px; max-height: 300px">
+
 
 Au cœur du projet monumental d'Isidore de Séville se trouve une méthode qui donne son titre et sa cohérence à l'œuvre : **l'étymologie**. Pour un esprit moderne, c'est une discipline de la linguistique. Pour Isidore, c'était bien plus : une **herméneutique universelle**, une clé pour déchiffrer la nature profonde des choses. Sa conviction, ancrée dans les traditions patristiques (notamment augustinienne) et antiques, est résumée par la formule `« Nomen si nescis, perit et cognitio rerum »` ("Si tu ignores le nom, la connaissance même des choses se perd"). Le nom d'une chose n'est pas une étiquette arbitraire, mais un contenant qui recèle son essence.
 
@@ -352,6 +357,8 @@ L'**Identifiant Universel (IU)** est notre étymologie moderne. Il n'a aucune si
 
 #### 🕸️ 1.1.2.3 L'Organisation en Vingt Livres : Une Ontologie Hiérarchique du Monde
 
+<img src="1_1_2_3.png" title="16:9, scène en perspective isométrique mêlant enluminure romane et interface holographique — vingt grands volums reliés trônent en cercle, leurs tranches décorées de motifs végétaux dorés ; des rubans-signets se métamorphosent en faisceaux laser verts reliant les livres entre eux, dessinant un graphe 3D flottant au-dessus — le sol mosaïque alterne carreaux médiévaux et puces électroniques — pilastres sculptés portent des icônes angéliques aux ailes translucides pixelisées — éclairage bicolore : chandelles ambrées + halos cyan — détails miniatures margés en or ; pas de texte, pas de bandes noires" style="max-width:400px; max-height: 300px">
+
 L'ambition d'Isidore se matérialise dans la structure même de son œuvre. Les vingt livres des *Etymologiae* ne sont pas une juxtaposition aléatoire de savoirs ; ils forment une **ontologie hiérarchique**, héritière de l'encyclopédisme latin (Pline, Cassiodore). C'est sa tentative de cartographier le savoir selon une classification ordonnée, reflétant une vision du monde structurée.
 
 ---
@@ -382,6 +389,8 @@ Isidore a dessiné la carte la plus complète possible du monde tel qu'il le voy
 
 
 #### 🏛️ 1.1.2.4 Un Acte Fondateur : Créer une Référence Commune pour un Monde Divisé
+
+<img src="1_1_2_4.png" title="16:9, peinture d’enluminure onirique x rétro-futurisme noble — grande nef d’une cathédrale-serveur : voûtes ogivales couvertes de circuits, vitraux diffusant des flux de données arc-en-ciel — au centre, un large pupitre d’or supporte un codex géant ; des pages s’élèvent et deviennent des panneaux holographiques interconnectés formant une toile lumineuse qui relie entre eux des clercs-programmeurs dispersés dans les travées — le dallage est incrusté de motifs hexagonaux et de glyphes binaires scintillants — contrastes chaud/froid, accents feuille d’or foisonnants — aucun lettrage, aucune bordure sombre" style="max-width:400px; max-height: 300px">
 
 Au-delà de sa structure et de sa méthode, l'acte de créer les *Etymologiae* fut, en soi, un **événement politique et culturel majeur**. Dans un paysage européen fragmenté, l'œuvre d'Isidore de Séville représentait une force contraire : une tentative audacieuse de proposer un **socle de connaissance commun**, un terrain d'entente intellectuel sur lequel les esprits lettrés de tout l'Occident pourraient à nouveau se rencontrer.
 
