@@ -224,12 +224,20 @@ au centre, un savant solitaire sur un promontoire, manuscrit ouvert diffusant un
 couleurs dominantes : indigo, or, magenta néon ; détails de marges façon manuscrit médiéval —
 zéro texte, zéro bande noire" style="max-width:400px; max-height: 300px">
 
-L'aboutissement logique de la destruction des institutions, de la rupture des réseaux et de la fragmentation des langages fut un **rétrécissement radical du monde connu**. Pour l'individu du VIIe siècle, même pour le plus érudit, l'horizon intellectuel et géographique s'était dramatiquement contracté. La conscience d'appartenir à un vaste monde interconnecté, si présente chez un citoyen romain, avait laissé place à une perspective presque exclusivement locale. Le savoir, jadis un océan interconnecté, se fragmenta en un archipel d'îlots de savoir, séparés par de vastes étendues d'ignorance.
+L'aboutissement logique de la destruction des institutions, de la rupture des réseaux et de la fragmentation des langages fut un **rétrécissement radical du monde connu**. Pour l'individu du VIIe siècle, même pour le plus érudit, l'horizon intellectuel et géographique s'était dramatiquement contracté. 
+
+<img src="1_1_1_4_A.png" title="Triptyque « Rétrécissement du Monde »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych — left panel: vast late-roman panorama under golden sunrise, caravans, ships and data-beams connect cosmopolitan cities across marble maps glowing lapis-lazuli — center panel: same world collapses inward, roads crack, aqueduct-cables snap, horizon shrinks to dim local lights, ocean of knowledge drains leaving islands of parchment — right panel: tight close-up of a lone scholar on a tiny stone isle ringed by holographic walls, distant islands flicker like lost servers across a dark ignorance sea — palette lapis, ember orange, emerald neon, lavish gold leaf micro-illumination
+" style="max-width:400px; max-height: 300px">
+
+La conscience d'appartenir à un vaste monde interconnecté, si présente chez un citoyen romain, avait laissé place à une perspective presque exclusivement locale. Le savoir, jadis un océan interconnecté, se fragmenta en un archipel d'îlots de savoir, séparés par de vastes étendues d'ignorance.
 
 ---
 
 ##### 🏝️ **La Connaissance comme Phénomène Insulaire**
-
+<img src="1_1_1_4_B.png" title="Triptyque « Connaissance - Îlots Monastiques »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych — left panel: fortified island-monastery at dawn, towers made of stone and crystal servers, monks receiving radiant scrolls from heaven-like data streams — center panel: interior scriptorium cutaway, monks endlessly copying; manuscripts multiply yet diverge, glowing lines show drift between versions, errors crystallising in red pixels — right panel: night scene of many isolated monasteries on separate rocks, manuscripts hover above each, data-bridges broken, divergent texts collide but cannot merge — palette indigo, turquoise, rose neon, heavy gold ornament on margins
+" style="max-width:400px; max-height: 300px">
 Le savoir a survécu, mais de manière ponctuelle et discontinue. Il s'est réfugié dans des "îlots" fortifiés, principalement des monastères, qui sont devenus les capsules temporelles de la connaissance antique.
 
 *   **Les Monastères comme "Coffres-forts" du Savoir :** Des centres comme ceux de l'Irlande (Clonmacnoise), de la Northumbrie (Jarrow, où œuvrait Bède le Vénérable), ou de l'Italie (Vivarium, Mont-Cassin) sont devenus les dépositaires quasi exclusifs des textes classiques et patristiques, jouant un rôle fondamental dans leur préservation.
@@ -237,7 +245,9 @@ Le savoir a survécu, mais de manière ponctuelle et discontinue. Il s'est réfu
 *   **L'Isolation et la Dérive Textuelle :** Cependant, cette préservation s'est faite au prix de l'isolement. Un texte pouvait être copié et recopié pendant des générations au sein d'un même monastère sans jamais être confronté à une version issue d'un autre "îlot". Cette absence de confrontation entre manuscrits a conduit à une **dérive des traditions textuelles**, du moins jusqu'aux efforts de standardisation, d'abord insulaires (Irlande, Angleterre) puis systémiques avec les réformes carolingiennes du IXe siècle. Des erreurs de copie se sont fossilisées, des passages ont été mal interprétés. La connaissance n'était plus un corpus universel et dynamique, mais une collection de versions locales, divergentes et parfois incompatibles.
 
 ##### 🗺️ **La Contraction de l'Espace-Temps Mental**
-
+<img src="1_1_1_4_C.png" title="Triptyque « Contraction de l’Espace-Temps Mental »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych — left panel: scholars study a complete shimmering Ptolemaic globe with precise golden meridians and flowing data streams — center panel: globe morphs into stylised T-O map, continents shrink, saints and monsters overlay geography, measuring ribbons tear, scales glitch — right panel: medieval marketplace with fractured mosaic floor showing mixed metric-imperial tiles; merchants weigh goods on incompatible holographic scales, numeric glyphs scramble — palette lapis-lazuli, antique parchment amber, cyan glows, gilt highlights everywhere
+" style="max-width:400px; max-height: 300px">
 La perception même de l'espace et du temps s'est transformée, se repliant sur le local et le mythique.
 
 *   **Un Monde sans Carte Globale :** L'horizon d'un paysan ou d'un seigneur se limitait souvent à quelques lieues. Les terres lointaines, autrefois des provinces connues, sont redevenues des lieux de légende. L'horizon mental se contracta ; la géographie systématique de Ptolémée céda souvent la place à des cartes en T-O, davantage symboliques que factuelles.
@@ -245,7 +255,9 @@ La perception même de l'espace et du temps s'est transformée, se repliant sur 
 *   **Un Passé Aplanit :** Le sens de la profondeur historique, de la chronologie, s'est largement perdu. Le passé est devenu une masse indifférenciée, un "temps des anciens" où les figures bibliques, les héros grecs et les empereurs romains coexistaient dans un présent mythique, rendant difficile la compréhension des relations de cause à effet.
 
 ##### 📉 **La Perte de la Spécialisation du Savoir**
-
+<img src="1_1_1_4_D.png" title="Triptyque « Perte de la Spécialisation du Savoir »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych — left panel: bustling late-roman workshop; architects, engineers, jurists, doctors each framed by golden circuit-halos, specialised tools shine — center panel: same workshop in ruin, tools scattered, blueprints burn into amber data-ash, artisans fade, one monk begins copying fragments — right panel: solitary polymath monk-scribe beneath vaulted circuitry, juggling many holographic icons (medicine, law, astronomy) yet each icon half-transparent, shallow; background shows unfinished aqueduct schematic flickering — palette violet-gold twilight, emerald circuitry, warm-cool dramatic lighting, dense micro-illumination on borders
+" style="max-width:400px; max-height: 300px">
 Le monde romain, avec son économie complexe, avait permis une forte spécialisation des savoirs (architectes, ingénieurs, juristes...), signe d'un écosystème de connaissance mature.
 
 *   **Le Retour du "Savant Universel" par Nécessité :** Dans un monde rétréci, la spécialisation est devenue un luxe insoutenable. Le savant de l'époque, tel Isidore de Séville, était moins un spécialiste qu'un polygraphe, un compilateur contraint de maîtriser tous les domaines du savoir.
