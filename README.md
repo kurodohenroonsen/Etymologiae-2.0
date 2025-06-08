@@ -191,7 +191,7 @@ La quête d'Isidore n'était pas seulement de compiler, mais de recréer une **s
 
 #### 🌍 1.1.1.4 Un Monde Rétréci où la Connaissance est Devenue Locale
 
-<img src="1_1_1_3.png" title="16:9, peinture d’enluminure onirique mêlée à un rétro-futurisme doux —
+<img src="1_1_1_4.png" title="16:9, peinture d’enluminure onirique mêlée à un rétro-futurisme doux —
 archipel de petits monastères fortifiés dressés sur des îlots rocheux, chacun éclairé d’une aura dorée —
 mer sombre de données : vagues translucides parcourues de glyphes binaires scintillants —
 ponts lumineux brisés entre les îles, sous forme de passerelles holographiques incomplètes —
