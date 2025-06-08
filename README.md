@@ -1,10 +1,13 @@
 # 📖 Etymologiae 2.0 : Le Manifeste de la Connaissance Structurée 🧠
 
 <img src="0.png" style="max-width:400px; max-height: 300px">
-> "Nihil perdis, si quod nescis, didicisti."
->
-> *"Tu ne perds rien, si tu as appris ce que tu ignores."* - Attribué à Isidore de Séville
+"Nihil perdis, si quod nescis, didicisti."
 
+*"Tu ne perds rien, si tu as appris ce que tu ignores."* 
+
+- Attribué à Isidore de Séville
+
+<br>
 Bienvenue dans le dépôt du **Standard Zéro**, la première pierre de la Bibliothèque de Demain. Ce document est le plan directeur de notre quête collective : mettre fin au chaos informationnel et construire une infrastructure pour une intelligence collective, traçable et efficiente.
 
 <img src="0_0.png" style="max-width:400px; max-height: 300px">
