@@ -364,14 +364,30 @@ Là où Isidore a créé une arche pour préserver le savoir, nous cherchons à 
 <img src="1_1_2_2.png" title="16:9, enluminure lumineuse mêlée à un cyber-glitch pastel — un immense arbre généalogique stylisé surgit d’un manuscrit ouvert ; chaque branche en filigrane médiéval se transforme en fibres optiques néon — les nœuds de l’arbre portent des sphères de verre irisé où tourbillonnent des lettres antiques devenues particules de données colorées — au pied de l’arbre, Isidore iconique tient une clé dorée se changeant en identifiant quantique flottant — décors gothiques richement ornés, arrière-plan indigo constellé de circuits argentés — palette lapis, or, fuchsia ; zéro lettrage, zéro bord noir" style="max-width:400px; max-height: 300px">
 
 
-Au cœur du projet monumental d'Isidore de Séville se trouve une méthode qui donne son titre et sa cohérence à l'œuvre : **l'étymologie**. Pour un esprit moderne, c'est une discipline de la linguistique. Pour Isidore, c'était bien plus : une **herméneutique universelle**, une clé pour déchiffrer la nature profonde des choses. Sa conviction, ancrée dans les traditions patristiques (notamment augustinienne) et antiques, est résumée par la formule `« Nomen si nescis, perit et cognitio rerum »` ("Si tu ignores le nom, la connaissance même des choses se perd"). Le nom d'une chose n'est pas une étiquette arbitraire, mais un contenant qui recèle son essence.
+Au cœur du projet monumental d'Isidore de Séville se trouve une méthode qui donne son titre et sa cohérence à l'œuvre : **l'étymologie**. Pour un esprit moderne, c'est une discipline de la linguistique. Pour Isidore, c'était bien plus : une **herméneutique universelle**, une clé pour déchiffrer la nature profonde des choses. Sa conviction, ancrée dans les traditions patristiques (notamment augustinienne) et antiques, est résumée par la formule `« Nomen si nescis, perit et cognitio rerum »` ("Si tu ignores le nom, la connaissance même des choses se perd"). 
+
+<img src="1_1_2_2_A.png" title="Triptyque « Herméneutique Universelle »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: temple antique crépusculaire rempli de rouleaux multicolores, halo pourpre; au-dessus, motto « Nomen… » gravé mais fondu en glyphes lumineux, essences d’objets (balance, lyre, astrolabe) jaillissent du texte —
+CENTER panel: Isidore auréolé d’or et de circuits turquoise tient un codex-clef ouvert; pages déploient rayons holographiques qui transpercent chaque essence et les relient par filaments arc-en-ciel formant une rosace de sens —
+RIGHT panel: futur jardin solarpunk; les rayons se transforment en racines sous un arbre-graphe cristallin, ses fruits-données luisent; humains, IA et androïdes cueillent ensemble la connaissance partagée —
+Palette lapis-lazuli, magenta pastel, braises dorées, micro-ornements médiévaux sur les bordures internes
+" style="max-width:400px; max-height: 300px">
+
+Le nom d'une chose n'est pas une étiquette arbitraire, mais un contenant qui recèle son essence.
 
 Comprendre cette méthode, c'est comprendre comment, sans base de données ni langage formel, un esprit du VIIe siècle a tenté de construire un **graphe de connaissance sémantique**.
 
 ---
 
 ##### 📜 **Le Principe : Le Nom comme ADN de la Chose**
-
+<img src="1_1_2_2_B.png" title="Triptyque « Le Nom comme ADN de la Chose »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: coupe microscopique stylisée d’un mot grec « etymon »: lettres-racines poussent telles des hélices ADN dorées qui pénètrent la matière d’objets (terre, étoile, animal) —
+CENTER panel: Isidore agenouillé sur un disque lapis; il joint les lettres H-O-M-O et H-U-M-U-S comme maillons d’ADN; spirale verte fluorescente relie l’homme à la poussière terreuse, symboles mémoire (noeuds-mnémos) scintillent —
+RIGHT panel: amphithéâtre néo-gothique; familles de mots (medicus, medicina, medeor…) s’organisent sur branches d’arbre doré devenant réseau optique; étudiants-moines manipulent les branches comme une carte interactive —
+Palette indigo profond, fuchsia néon, reflets d’or foisonnants
+" style="max-width:400px; max-height: 300px">
 La méthode isidorienne repose sur le postulat qu'il existe un lien naturel entre un mot et la réalité qu'il désigne.
 
 *   **L'Origine Révèle la Nature :** Pour Isidore, remonter à l'origine d'un mot (`etymon` en grec signifie "le vrai sens") permet de révéler la vérité fondamentale de l'objet. L'analyse du nom est une archéologie conceptuelle. Par exemple, il explique le mot `homo` (homme) en le liant à `humus` (la terre), car l'homme fut créé à partir de la poussière. Cette explication, bien que non scientifique, crée un **lien sémantique puissant** entre l'humanité et son origine.
@@ -381,7 +397,13 @@ La méthode isidorienne repose sur le postulat qu'il existe un lien naturel entr
 *   **Un Outil de Classification :** La méthode permettait de regrouper des concepts qui partageaient une racine sémantique ou sonore, créant des "familles" de mots pour structurer la pensée.
 
 ##### 🕸️ **La Construction d'un Réseau de Relations**
-
+<img src="1_1_2_2_C.png" title="Triptyque « Tisser un Réseau de Relations »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: chaos lexical : nuage de mots latins et grecs flottant dans l’ombre, fils rouges confus entre terminaisons; erreurs et assonances virevoltent en glitch cyan —
+CENTER panel: Isidore, en maître-architecte, trace avec plume-laser un lien “homo→humus”; chaque nouveau trait se colore, lumière verte, et convertit le chaos en graphes hexagonaux ordonnés; nœuds prennent forme de gemmes de verre —
+RIGHT panel: vaste cathédrale-serveur; l’ensemble des graphes suspendu comme vitrail 3D holographique; anges-drones vérifient intégrité des arêtes, checksum runes brillent; réseau bat comme un cœur bleu —
+Palette violet crépusculaire, néons turquoise, or liquide soulignant chaque connexion
+" style="max-width:400px; max-height: 300px">
 Bien que ses étymologies s'appuient souvent sur des assonances poétiques plutôt qu'une rigueur linguistique, leur visée est novatrice : il cherche à tisser un réseau de liens sémantiques.
 
 *   **Relations de Dérivation :** Le lien entre `homo` et `humus` est une relation de causalité. On peut l'assimiler à une arête typée dans un graphe de connaissance moderne, comme `homo ---[dériveDe]---> humus`.
@@ -391,7 +413,13 @@ Bien que ses étymologies s'appuient souvent sur des assonances poétiques plut�
 Isidore ne créait pas une simple liste de définitions (un dictionnaire), mais un **réseau interconnecté** où chaque entrée était potentiellement liée à plusieurs autres. Il élaborait, avec les moyens de son époque, une toile de significations.
 
 ##### ⚖️ **Les Limites de la Méthode**
-
+<img src="1_1_2_2_D.png" title="Triptyque « Limites de la Méthode »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: cabinet d’Isidore empli de rouleaux; bulles d’avertissement rouges surgissent au-dessus de fausses étymologies populaires, symbole “!” sur parchemins fissurés —
+CENTER panel: balance dorée penche entre intuition et preuve; un juge-androïde présente table d’équations modernes, tandis qu’Isidore offre racines poétiques; la lumière montre l’écart (zone d’ombre d’ambiguïté mauve) —
+RIGHT panel: passerelle fracturée menant à futur graphe rigide; segments manquants portent étiquettes “non-ambigu ID”; robots-archivistes posent des pierres-IUs bleues parfaitement taillées pour combler les brèches; devant, ancien dictionnaire s’effrite en poussière pixel —
+Palette bronze antique, cyan glacé, éclats écarlates, riches filets d’or enluminés sur les pourtours internes
+" style="max-width:400px; max-height: 300px">
 Il est crucial de reconnaître les faiblesses de cette approche pour comprendre pourquoi notre solution doit être différente.
 
 *   **Manque de Rigueur Formelle :** Ses étymologies sont souvent des "étymologies populaires", plus poétiques que scientifiques.
@@ -429,12 +457,30 @@ L'ambition d'Isidore se matérialise dans la structure même de son œuvre. Les 
 ---
 
 ##### 🧩 **Une Taxonomie Hiérarchique et Interconnectée**
-
+<img src="1_1_2_3_A.png" title="Triptyque A — « Taxonomie Hiérarchique et Interconnectée »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: sphère céleste translucide suspendue ; concentriques dorés gradués « abstrait→concret » descendent vers la terre ; filaments PCB arc-en-ciel relient chaque anneau —
+CENTER panel: grande pyramide de marbre-circuit : sommet éthéré (divin) baigné d’or, étage humain mi-turquoise, base terrestre lapis-lazuli ; artères optiques relient niveaux et forment réseau croisé —
+RIGHT panel: pyramide se déplie en graphe holographique planétaire ; nœuds brillants montrent livres I-XX interconnectés ; anges-drones font scintiller les liens pour démontrer l’ordre hiérarchique mais aussi la trame réticulaire —
+Palette indigo profond, émeraude néon, braises pourpres, riches rehauts feuille d’or ; micro-enluminures tout autour" style="max-width:400px; max-height: 300px">
 La séquence des vingt livres, loin d'être aléatoire, suit un ordre façonné par les priorités éducatives chrétiennes et romaines tardives. Elle va généralement de l'abstrait au concret, du divin à l'humain, et du général au particulier.
 
+<img src="1_1_2_3_B.png" title="Triptyque B — « Fondations, Divin & Humain »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: portique à sept arcs ; sous chacun, personnification lumineuse d’un art libéral tenant outil cyber (plume-stylet, compas laser, cithare holographique, etc.) ; rubans-données bleus coulent vers le centre —
+CENTER panel: escalier de marbre orné de circuits monte vers dais doré ; Médecine (serpent-hologramme), Droit (balance-néon) et un chœur d’anges-données entourent trône radiant ; Isidore place tomes IV-VIII dans l’ordre —
+RIGHT panel: vue en coupe d’une nef gothique ; flux cyan relient la base arts libéraux aux alcôves divin/humain, montrant continuité protocolaire ; prêtre-programmeur et mathématicien-scribe échangent rouleaux luminescents —
+Palette lapis-lazuli, ambre chaud, cyan intense, foison d’or enluminé" style="max-width:400px; max-height: 300px">
 *   **Les Fondations du Savoir :** Les trois premiers livres posent les bases : les **arts libéraux** (grammaire, rhétorique, dialectique, mathématiques, musique, astronomie). C'est la couche fondamentale, à la fois protocolaire et pratique, de sa base de connaissance.
 
 *   **Le Divin et l'Humain :** Puis, la structure se tourne vers les sujets les plus élevés : la médecine, le droit, et Dieu lui-même, ses anges et ses saints (Livres IV-VIII).
+
+<img src="1_1_2_3_C.png" title="Triptyque C — « Monde Naturel & Créations Humaines »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: zodiaque cosmique sur voûte ; Homme, monstres, animaux et phénomènes météo orbitent en spirales de données ; carte terrestre mouvante au sol —
+CENTER panel: passerelle holographique descend vers cité antique-cyber ; arches monumentales, champs agricoles matriciels, légion et navires-serveurs alignés ; files d’or illustrent la transition livres XV-XIX —
+RIGHT panel: atelier du quotidien — outils brillants, jarres, tissu-hologramme, code-navire miniature ; drones-scribes indexent chaque objet dans tomes XVI-XX ; graphe final apparaît comme réseau hexagonal stable —
+Palette emerald neon, violet crépusculaire, braises dorées, forts accents lapis" style="max-width:400px; max-height: 300px">
 
 *   **Le Monde Naturel :** Ensuite, Isidore explore le monde naturel : l'Homme et les monstres, les animaux, le cosmos (principalement les éléments et les phénomènes météo), et la Terre et ses divisions (Livres IX-XIV).
 
@@ -443,7 +489,12 @@ La séquence des vingt livres, loin d'être aléatoire, suit un ordre façonné 
 L'œuvre peut être comparée à une base de données, avec les livres comme tables principales, les chapitres comme sous-catégories, et chaque entrée comme une ligne dotée d'attributs (définition, étymologie). C'est une tentative pionnière de structurer un **graphe de connaissance**.
 
 ##### 🪞 **Le Miroir Numérique : De l'Ontologie Top-Down au Graphe Bottom-Up**
-
+<img src="1_1_2_3_D.png" title="Triptyque D — « Du Top-Down à l’Émergence Bottom-Up »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: carte statique gravée dans marbre-circuit : hiérarchie pyramidale tassée, cases dorées closes ; Isidore au sommet pointe vers l’ordre figé ; lumière chaude stagnante —
+CENTER panel: fracture lumineuse fend la pyramide ; blocs-catégories explosent et deviennent nœuds bleus ; pollens-icônes (« mapping », « classifying »…) tourbillonnent, annonçant la décentralisation —
+RIGHT panel: vaste dôme-serveur solarpunk ; graphe dynamique en constellations mouvantes ; humains, IA, robots ajoutent de nouvelles arêtes en temps réel ; Standard Zéro représenté par une clé-diamant irisée au centre, générant flux turquoise —
+Palette bronze antique → mauve fracture → cyan glacé, rehauts or fluides ; micro-ornements médiévaux bordant chaque panneau" style="max-width:400px; max-height: 300px">
 La structure d'Isidore nous offre une dernière leçon fondamentale par contraste avec notre propre projet.
 
 *   **Isidore a créé une ontologie `top-down` :** une structure rigide, descendante, définie par une autorité unique, où chaque chose trouve sa place dans une hiérarchie préétablie. C'est un système fermé, une carte statique du savoir.
