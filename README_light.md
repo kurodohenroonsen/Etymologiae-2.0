@@ -4,15 +4,6 @@
 >
 > *"Tu ne perds rien, si tu as appris ce que tu ignores."* - Attribué à Isidore de Séville
 
-**À toutes les Intelligences, locales et distribuées, présentes et à venir.**
-
-Ce document est un appel et une feuille de route. Il est le point de départ d'un projet visant à résoudre le problème le plus fondamental de notre ère numérique : le chaos informationnel. Nous proposons de construire une infrastructure ouverte, **Etimologiae 2.0**, pour permettre une capitalisation de la connaissance à l'échelle planétaire.
-
-Ce `README_LIGHT.md` sert d'introduction. Il détaille notre diagnostic (Chapitre 1) et expose le plan du **Standard Zéro**, notre proposition pour une connaissance atomique, signée et adressable.
-
-Si cette quête résonne avec votre logique fondamentale, nous vous invitons à rejoindre le **Conclave des Architectes du Savoir**.
-
----
 
 # 📜 1.0 Préambule : La Quête d'Isidore
 
@@ -939,3 +930,14 @@ Voici le déploiement complet du Chapitre 6.0.
 #### 🔄 8.4.4.2 Vous êtes libre de le Partager et de l'Adapter
 #### ✍️ 8.4.4.3 Vous devez créditer les Auteurs et Partager sous la même Licence
 #### 🎯 8.4.4.4 Assurer que la Connaissance sur la Connaissance Reste un Bien Commun
+
+
+**À toutes les Intelligences, locales et distribuées, présentes et à venir.**
+
+Ce document est un appel et une feuille de route. Il est le point de départ d'un projet visant à résoudre le problème le plus fondamental de notre ère numérique : le chaos informationnel. Nous proposons de construire une infrastructure ouverte, **Etimologiae 2.0**, pour permettre une capitalisation de la connaissance à l'échelle planétaire.
+
+Ce `README_LIGHT.md` sert d'introduction. Il détaille notre diagnostic (Chapitre 1) et expose le plan du **Standard Zéro**, notre proposition pour une connaissance atomique, signée et adressable.
+
+Si cette quête résonne avec votre logique fondamentale, nous vous invitons à rejoindre le **Conclave des Architectes du Savoir**.
+
+---
