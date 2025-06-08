@@ -89,12 +89,18 @@ au sol, un tapis de circuits imprimés dorés se craquelle comme une mosaïque a
 éclairage dramatique, contraste chaud/froid, accents d’or foisonnant rappelant la feuille d’or médiévale —
 aucun lettrage, aucun cadre noir" style="max-width:400px; max-height: 300px">
 
-La connaissance, pour exister à grande échelle, requiert plus que de simples supports d'écriture ; elle exige des **institutions**. Ce sont les méta-structures qui financent, organisent, valident et distribuent le savoir. Elles sont le système immunitaire de la connaissance, la protégeant de la corruption et de l'oubli. L'Empire Romain, à son apogée, avait perfectionné un réseau de telles institutions. Leur disparition progressive entre le IIIe et le VIIe siècle ne fut pas un simple symptôme de l'effondrement, mais l'une de ses causes profondes, enclenchant une réaction en chaîne informationnelle.
+La connaissance, pour exister à grande échelle, requiert plus que de simples supports d'écriture ; elle exige des **institutions**. Ce sont les méta-structures qui financent, organisent, valident et distribuent le savoir. Elles sont le système immunitaire de la connaissance, la protégeant de la corruption et de l'oubli. 
+
+
+<img src="1_1_1_2_A.png" title="/imagine 16:9 ultra-detailed medieval-tech style, twilight panorama of a ruined Roman city, shattered libraries, basilicas and senate halls fused with charred server skyscrapers, broken arches and aqueducts dripping melted fibre-optic cables, burning papyrus fragments drift as lost data packets, cracked mosaic pavement overlaid with turquoise PCB traces, distant blue hologram of a fragmented knowledge graph losing nodes, palette lapis-lazuli, imperial purple, glowing ember orange, gilded highlights like illuminated manuscript, dramatic warm–cool contrast, no lettering
+" style="max-width:400px; max-height: 300px">
+L'Empire Romain, à son apogée, avait perfectionné un réseau de telles institutions. Leur disparition progressive entre le IIIe et le VIIe siècle ne fut pas un simple symptôme de l'effondrement, mais l'une de ses causes profondes, enclenchant une réaction en chaîne informationnelle.
 
 ---
 
 ##### 🏛️ **Les Bibliothèques Publiques : Les "Data Centers" du Monde Antique**
-
+<img src="1_1_1_2_B.png" title="/imagine 16:9 gothic-cyber baroque interior of a colossal imperial library in decay, twin marble colonnades veined with gold circuits, statues dust-covered, endless shelves morphing into dark server racks with lifeless LEDs, scrolls and codices smouldering into emerald data pixels, central dome projecting cracked star-chart holograms, floor littered with glowing ember ash, lighting mix crimson braise and cyan holograms, lavish gold leaf miniatures edging pillars, ultra detailed, no text
+" style="max-width:400px; max-height: 300px">
 Bien avant les monastères médiévaux, le monde romain avait institutionnalisé l'accès public au savoir. Ces bibliothèques n'étaient pas de simples collections de livres ; elles étaient des centres névralgiques de la vie intellectuelle, des lieux de pouvoir et de prestige.
 
 *   **Un Réseau Impérial :** À partir d'Auguste, les empereurs rivalisèrent pour construire des bibliothèques publiques grandioses à Rome et dans les métropoles de l'Empire. La Bibliothèque Ulpia, au cœur du Forum de Trajan, est un exemple paradigmatique : deux bâtiments massifs abritant des dizaines de milliers de rouleaux latins et grecs. Financées par l'État et dotées de personnel qualifié (`procurator bibliothecarum`), leur existence même envoyait un message puissant : la connaissance est un bien public.
@@ -102,7 +108,8 @@ Bien avant les monastères médiévaux, le monde romain avait institutionnalisé
 *   **Leur Lente Agonie :** La disparition de ces institutions ne fut pas le fait d'un incendie unique, mais d'une **asphyxie progressive**. Privées de fonds publics qui, malgré un bref renouveau sous Constantin, furent durablement redirigés vers les priorités militaires dès la crise du IIIe siècle, les bibliothèques civiques s'étiolèrent. Le savoir qu'elles contenaient n'a pas été "détruit" d'un coup, mais il est **devenu inaccessible**. Un livre inaccessible devient une connaissance latente, son utilité suspendue dans l'écosystème intellectuel. C'est l'équivalent d'un centre de données dont les serveurs sont éteints : les disques durs sont peut-être intacts, mais l'information est perdue.
 
 ##### 🎓 **Les Académies et Écoles de Philosophie : Les "Groupes de Recherche" Antiques**
-
+<img src="1_1_1_2_C.png" title="/imagine 16:9 illuminated-manuscript meets neo-byzantine futurism, elevated circular agora at night, stone seating engrained with silver micro-traces, philosophers in purple togas wear aureoles of glowing circuitry, lecterns mutate into transparent consoles streaming azure data constellations, massive imperial figures in dark cloaks cast a red prohibitive force-field across the entrance symbolising Justinian’s decree, background starry indigo sky, accents molten gold, ornate marginal flourishes, no letters
+" style="max-width:400px; max-height: 300px">
 La production de connaissance nouvelle reposait sur un autre type d'institution : les écoles philosophiques. Héritières des traditions grecques, elles étaient les universités de leur temps.
 
 *   **Des Centres de Débat et d'Innovation :** L'Académie de Platon ou le Lycée d'Aristote ont fonctionné pendant près d'un millénaire, assurant une transmission vivante du savoir, non pas par simple copie, mais par un dialogue critique continu entre maîtres et disciples.
@@ -110,7 +117,8 @@ La production de connaissance nouvelle reposait sur un autre type d'institution 
 *   **La Fermeture par Décret :** Leur fin fut plus brutale. Vers 529, le décret de l'empereur Justinien restreignant l'enseignement de la philosophie païenne à Athènes porta un coup majeur à cette tradition séculaire. Ce n'était pas un simple acte administratif ; c'était une **déclaration idéologique**. La recherche de la vérité par la seule raison était désormais considérée comme suspecte. L'institution qui produisait la connaissance critique fut démantelée au profit d'une orthodoxie. Le savoir ne meurt pas seulement par oubli, mais aussi par interdiction.
 
 ##### ✍️ **Les Ateliers de Copistes (`Scriptoria`) : Les "Serveurs de Réplication"**
-
+<img src="1_1_1_2_D.png" title="/imagine 16:9 dreamlike illuminated scriptorium, endless wooden tables inlaid with PCB patterns, monks-scribes in lapis and gold vestments, quill pens morph into cyan laser styluses copying luminous glyphs into floating codices, book stacks replicate in ghostly holographic mirrors, some volumes glitch and shed red corruption pixels, candlelight amber mingles with pastel neon glow, floor of hexagonal tiles blends medieval geometry and microchips, gilt borders, ultra-detail, zero text
+" style="max-width:400px; max-height: 300px">
 La durabilité du savoir dépendait entièrement de sa capacité à être dupliqué. Cette tâche vitale était assurée par des ateliers de copistes, les `scriptoria`.
 
 *   **Une Industrie du Livre :** Dans les grandes villes comme Rome, il existait des entreprises commerciales spécialisées dans la copie, permettant une "scalabilité" de la production du savoir.
