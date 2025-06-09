@@ -1232,7 +1232,9 @@ Contrairement à l'époque d'Isidore, où chaque fragment de papyrus était un t
 | **Le défi était de **conserver** | 🛡️ | **Le défi est de **trier** | 🗑️ |
 | **Chaque donnée était précieuse** | 💎 | **La plupart des données sont du bruit** | 🌫️ |
 
-**Etimologiae 2.0** est une proposition radicale face à cette réalité. Nous ne pouvons pas arrêter le déluge, mais nous pouvons changer la nature de ce que nous y jetons. Au lieu de continuer à déverser des données brutes, nous proposons de commencer à y déposer des **cristaux de connaissance structurée** : les Pollens. Notre but n'est pas de remplacer l'océan, mais d'y ensemencer un **récif corallien de savoir** qui, Pollen par Pollen, commencera à créer des zones de clarté au milieu du chaos.#### 📈 1.2.1.1 L'Explosion Exponentielle des Données Générées
+**Etimologiae 2.0** est une proposition radicale face à cette réalité. Nous ne pouvons pas arrêter le déluge, mais nous pouvons changer la nature de ce que nous y jetons. Au lieu de continuer à déverser des données brutes, nous proposons de commencer à y déposer des **cristaux de connaissance structurée** : les Pollens. Notre but n'est pas de remplacer l'océan, mais d'y ensemencer un **récif corallien de savoir** qui, Pollen par Pollen, commencera à créer des zones de clarté au milieu du chaos.
+
+#### 📈 1.2.1.1 L'Explosion Exponentielle des Données Générées
 
 <img src="1_2_1_1.png" title="16:9, peinture d’enluminure onirique x rétro-futurisme noble — une visualisation de la Loi de Moore comme un arbre de vie gothique dont les branches, faites de circuits dorés, se subdivisent de manière exponentielle. À chaque nouvelle ramification, l’arbre produit des fruits de lumière de plus en plus petits et nombreux, jusqu’à former un nuage aveuglant qui obscurcit les racines de l’arbre. — palette or, silicium bleu, lumière blanche intense, pas de texte" style="max-width:400px; max-height: 300px">
 
