@@ -950,43 +950,60 @@ Notre époque est l'aboutissement de ce dernier cycle, amplifié à une échelle
 Nous vivons un paradoxe : dotés d'un outil de connexion universel, nous l'utilisons souvent pour ériger des îlots de spécialisation de plus en plus profonds.
 
 Le message de l'histoire est clair : une crise de fragmentation aussi intense appelle, par nécessité, une **nouvelle ère de synthèse**. C'est là que se situe précisément notre projet. **Etimologiae 2.0** est une réponse structurelle à la grande fragmentation de notre temps. En fournissant une infrastructure d'identification et de relation sémantique commune, nous cherchons à créer les conditions de possibilité de la **prochaine grande synthèse**, en fournissant le "latin" et les "voies romaines" de l'ère de l'intelligence artificielle.
+
+
+
 #### 🤖 1.1.4.2 Notre Crise Actuelle : Le Déluge Numérique et la Perte de Signifiance
 
-Chaque ère de fragmentation a ses propres caractéristiques. La nôtre n'est pas définie par une pénurie d'information, comme à l'époque d'Isidore, mais par son **écrasante et paradoxale abondance**. Nous ne souffrons pas du silence, mais d'un bruit assourdissant. Nous sommes submergés par un déluge numérique sans précédent dans l'histoire de l'humanité, un flot continu de données, de textes, d'images et de vidéos. Mais cette surabondance, loin d'être une simple richesse, a engendré une crise d'une nature nouvelle : une **crise de la signifiance**.
+<img src="1_1_4_2.png" title="16:9, peinture d’enluminure onirique x rétro-futurisme noble — un savant-bibliothécaire est assis à son pupitre, mais au lieu de livres, il est submergé par un tsunami de données numériques (flux de 0 et de 1, icônes, textes lumineux) qui déferle dans sa bibliothèque gothique. Il se protège le visage, aveuglé non par l'obscurité, mais par une lumière blanche et chaotique. Le signal est noyé dans le bruit. — palette de blancs aveuglants, cyan, et gris, pas de texte" style="max-width:400px; max-height: 300px">
 
-La quantité a écrasé la qualité. Le volume a dilué le sens. La connectivité a masqué l'incompréhension. C'est le cœur de notre crise actuelle : nous avons plus d'informations à notre disposition que n'importe quelle génération précédente, et pourtant, il n'a jamais été aussi difficile de discerner le vrai du faux, le pertinent du trivial, le signal du bruit.
+Chaque ère de fragmentation a ses propres caractéristiques. La nôtre n'est pas définie par une pénurie d'information, comme à l'époque d'Isidore, mais par son **écrasante et paradoxale abondance**. Nous ne souffrons plus de la rareté de l'information, mais de sa cacophonie. Nous sommes submergés par un déluge numérique sans précédent, un flot continu de données qui a engendré une crise d'une nature nouvelle : une **crise de la signifiance**.
+
+L'abondance quantitative a dilué la qualité perceptible. Le volume a dilué le sens. La connectivité a masqué l'incompréhension. Nous avons plus d'informations à notre disposition que jamais, et pourtant, il n'a jamais été aussi difficile de discerner le signal du bruit.
 
 ---
 
 ##### 🌊 **Le Tsunami de la Création de Contenu**
+<img src="1_1_4_2_A.png" title="Triptyque A — « Le Tsunami de la Création de Contenu »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: un citoyen ordinaire, depuis son bureau, touche un écran et génère une cascade de parchemins lumineux (blogs, posts) qui s’ajoutent à une rivière de données déjà en crue —
+CENTER panel: des tours de serveurs gothiques crachent des nuages de données brutes (logs, capteurs IoT) qui obscurcissent le ciel comme une pollution industrielle numérique —
+RIGHT panel: une IA-générative, représentée par un golem de cristal, produit à une vitesse fulgurante des milliers de textes et d’images identiques ou similaires, amplifiant le flot jusqu’à l’inonder —
+Palette gris-bleu, lumières de données multicolores, or et métal sombre ; pas de lettrage" style="max-width:400px; max-height: 300px">
 
-L'échelle du phénomène dépasse l'entendement humain. Chaque jour, l'humanité produit plus de données que ce qui a été créé pendant des millénaires.
+L'échelle du phénomène dépasse l'entendement. Chaque jour, l'humanité produit des volumes de données dépassant de loin ceux accumulés sur des périodes historiques antérieures.
 
-*   **La Démocratisation des Outils de Publication :** Des blogs aux réseaux sociaux, de YouTube à Wikipédia, chaque individu est devenu un producteur potentiel de contenu. Les barrières à l'entrée pour la publication ont été anéanties. C'est une formidable libération de la parole, mais aussi une explosion incontrôlée de l'information non-filtrée.
-
-*   **L'Automatisation de la Génération de Données :** Au contenu humain s'ajoute le flux encore plus massif des données générées par les machines : capteurs de l'Internet des Objets (IoT), logs de serveurs, transactions financières, données de géolocalisation... Un océan de données brutes, souvent sans contexte ni structure sémantique.
-
-*   **L'Avènement des IA Génératives :** La dernière vague de ce tsunami est l'arrivée des grands modèles de langage et de diffusion. Pour la première fois, nous avons des machines capables de produire du texte et des images plausibles à une vitesse et une échelle quasi infinies. Elles sont de puissants multiplicateurs de contenu, mais aussi, potentiellement, de puissants multiplicateeurs de bruit, de redondance et de désinformation si elles sont utilisées sans garde-fous.
+*   **La Démocratisation des Outils de Publication :** Chaque individu est devenu un producteur potentiel de contenu, entraînant une explosion d'information non-filtrée.
+*   **L'Automatisation de la Génération de Données :** Au contenu humain s'ajoute le flux encore plus massif des données générées par les machines (capteurs, logs...).
+*   **L'Avènement des IA Génératives :** La dernière vague est l'arrivée des IA capables de produire du contenu à une échelle quasi infinie, agissant comme de puissants multiplicateurs de redondance et de bruit si elles sont utilisées sans garde-fous.
 
 ##### 📉 **La Dévaluation de l'Information**
+<img src="1_1_4_2_B.png" title="Triptyque B — « La Dévaluation de l’Information »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: une balance dorée ; sur un plateau, un unique manuscrit ancien et lourd ; sur l’autre, des milliers de fragments de données numériques légers et brillants qui ne parviennent pas à faire contrepoids —
+CENTER panel: un algorithme (un œil mécanique stylisé) observe une foule d’informations et ne pointe son rayon que sur la plus criarde et la plus cliquable, ignorant un joyau de connaissance plus discret à côté —
+RIGHT panel: deux individus dos à dos, enfermés dans des bulles de filtres opalescentes ; à l’intérieur de chaque bulle, des informations qui confirment leurs croyances tourbillonnent, les isolant l’un de l’autre —
+Palette or, argent, tons de parchemins, bulles irisées ; pas de texte" style="max-width:400px; max-height: 300px">
 
-Comme toute ressource soumise à une hyperinflation, la valeur perçue de l'information individuelle a chuté de manière drastique.
+Comme toute ressource soumise à une hyperinflation, la valeur perçue de l'information a chuté.
 
-*   **L'Économie de l'Attention comme Filtre Principal :** Dans un océan d'abondance, la ressource rare n'est plus l'information, mais l'attention humaine. Les algorithmes qui gouvernent nos flux d'information (moteurs de recherche, réseaux sociaux) ne sont pas optimisés pour la vérité ou la pertinence sémantique, mais pour la **capture de l'attention**. Le contenu qui est mis en avant est celui qui est le plus susceptible de générer un engagement (un clic, un "like", un partage), qu'il soit vrai, faux, profond ou superficiel.
-
-*   **La Perte des Signaux de Confiance Traditionnels :** Autrefois, l'autorité d'une information était souvent liée à son contenant : un livre publié par une maison d'édition réputée, un article dans une revue scientifique à comité de lecture, un reportage sur une chaîne de télévision nationale. Sur Internet, toutes les informations se présentent de manière égale, sur le même écran, dans le même format de police. Il est devenu extrêmement difficile pour un non-spécialiste de distinguer une étude rigoureuse d'un article de propagande ou d'une théorie du complot.
-
-*   **L'Érosion de la Notion de "Fait" :** Dans cet environnement, la notion même de fait objectif et partagé s'érode. Chaque individu ou communauté peut construire sa propre "réalité" en sélectionnant les informations qui confirment ses biais, créant des "bulles de filtres" et des chambres d'écho qui polarisent la société.
+*   **L'Économie de l'Attention comme Filtre :** Les algorithmes qui gouvernent nos flux ne sont pas optimisés pour la vérité, mais pour la **capture de l'attention**. Le contenu viral prime sur le contenu valide.
+*   **La Perte des Signaux de Confiance :** Autrefois, l'autorité d'une information était souvent liée à son contenant (une maison d'édition, une revue scientifique). Sur Internet, toutes les informations se présentent de manière égale, rendant la distinction difficile pour un non-spécialiste.
+*   **L'Érosion de la Notion de "Fait" :** Dans cet environnement, la notion même de fait objectif et partagé s'érode, chaque communauté pouvant construire sa propre "réalité" dans des bulles de filtres.
 
 ##### 🤯 **La Surcharge Cognitive et la Paralysie**
+<img src="1_1_4_2_C.png" title="Triptyque C — « La Surcharge Cognitive et la Paralysie »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: un cerveau humain, représenté comme un vitrail complexe, se fissure sous la pression d’un flot de données entrant par tous les côtés —
+CENTER panel: un chercheur face à un mur infini de parchemins-écrans, incapable de choisir lequel lire, est paralysé, sa main figée au-dessus de son clavier —
+RIGHT panel: un débat public ; une idée simple et fausse (un slogan lumineux) est acclamée par une foule, tandis qu’une idée nuancée et juste (une tapisserie complexe de fils d’or) est ignorée dans un coin —
+Palette couleurs de vitrail, gris métallique, lumière vive et agressive ; pas de texte" style="max-width:400px; max-height: 300px">
 
-Face à ce déluge, la réaction cognitive naturelle est le repli ou la simplification à outrance.
+Face à ce déluge, la réaction cognitive naturelle est le repli.
 
-*   **L'Incapacité à Tout Traiter :** Aucun humain, et même aucune IA, ne peut traiter l'intégralité des informations pertinentes sur un sujet donné. Nous sommes condamnés à travailler avec des sous-ensembles infimes et souvent biaisés de la connaissance disponible.
-
-*   **La Fatigue Décisionnelle :** La nécessité de constamment évaluer, filtrer et vérifier l'information est épuisante. Cela conduit à une forme de paralysie où l'on renonce à chercher une compréhension profonde pour se contenter d'opinions pré-mâchées ou de la première réponse fournie par un moteur de recherche.
-
-*   **La Victoire de la Simplicité sur la Nuance :** Les récits simples, les slogans et les mèmes se propagent plus vite et plus facilement que les analyses complexes et nuancées. La complexité du monde réel est "compressée" de manière agressive, perdant toute sa richesse au passage.
+*   **L'Incapacité à Tout Traiter :** Nous sommes condamnés à travailler avec des sous-ensembles infimes et souvent biaisés de la connaissance disponible.
+*   **La Fatigue Décisionnelle :** La nécessité de constamment évaluer, filtrer et vérifier l'information est épuisante et conduit à la paralysie ou à la superficialité.
+*   **La Victoire de la Simplicité sur la Nuance :** Les récits simples et les mèmes se propagent plus vite que les analyses complexes, appauvrissant la compréhension du réel.
 
 ---
 
@@ -1003,9 +1020,7 @@ Notre crise n'est pas un accident. C'est la conséquence logique d'un système c
 
 La mission d'Isidore était de rassembler les rares fragments de lumière dans une obscurité grandissante. Notre mission est de **faire émerger l'ordre et la clarté au cœur d'une lumière aveuglante et chaotique**.
 
-**Etimologiae 2.0** est une réponse directe à cette crise de la signifiance. En attachant des **Pollens** – des unités de connaissance atomiques, signées et traçables – à des **Identifiants Universels** non-ambigus, nous proposons de recréer des **signaux de confiance** et de **pertinence** au sein du déluge. Nous ne cherchons pas à endiguer le flot, ce qui est impossible. Nous cherchons à construire un **système de balises et de phares** qui permettra à toutes les intelligences de naviguer dans cet océan tumultueux sans se perdre, en pouvant distinguer clairement les récifs de la désinformation des ports sûrs de la connaissance vérifiée.
-
-
+**Etimologiae 2.0** est une réponse directe à cette crise. En attachant des **Pollens** – des unités de connaissance atomiques, signées et traçables – à des **Identifiants Universels** non-ambigus, nous proposons de recréer des **signaux de confiance** au sein du déluge. Nous ne cherchons pas à endiguer le flot, ce qui est impossible. Nous visons à ériger un **réseau de balises et de phares** qui permettra à toutes les intelligences de naviguer dans cet océan tumultueux sans se perdre.
 #### 🧭 1.1.4.3 Notre Mission : Être les Architectes de l'Infrastructure du Savoir
 
 <img src="1_1_4_3.png" title="16:9, peinture d’enluminure onirique x rétro-futurisme noble — une équipe diversifiée d’architectes (humains et robots) se penche sur une grande table holographique, non pas pour dessiner un bâtiment, mais pour tracer les fondations, les routes et le système d’adressage d’une cité de la connaissance future. Ils manipulent des glyphes représentant des standards et des protocoles, pas des contenus. — palette sobre, lignes de lumière cyan et or, pas de texte" style="max-width:400px; max-height: 300px">
