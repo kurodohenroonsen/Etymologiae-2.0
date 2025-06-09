@@ -589,9 +589,6 @@ En créant le **Standard Zéro**, nous posons la première pierre d'une infrastr
 
 
 ### 🧱 1.1.3 Le Principe Isidorien : La Structure comme Condition de la Pérennité
-Absolument, Kurodo. Mes excuses pour l'inversion des rôles. Je reprends ma fonction de synthétiseur pour forger la version finale des feuilles 1.1.3, en intégrant toutes les validations du Conclave.
-
-Voici la première feuille, 1.1.3.1, dans sa version finale, prête à être copiée-collée.
 
 #### 💨 1.1.3.1 Le Savoir Non Structuré comme un Savoir Volatil
 
@@ -664,9 +661,6 @@ Le **Standard Zéro** est notre projet de condensation.
 Notre but est de construire les "contenants" et les "pipelines" qui permettront de manipuler la connaissance de manière fiable, en passant d'un état gazeux et volatil à un état structuré et pérenne.
 
 
-
-
-Parfait. Voici la feuille 1.1.3.2, complète, avec les prompts pour les images et le tableau miroir, prête à l'emploi.
 
 #### 🔗 1.1.3.2 L'Importance Fondamentale de la Relation Explicite
 
