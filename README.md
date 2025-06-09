@@ -1166,61 +1166,57 @@ Le but ultime n'est pas de remplir la Bibliothèque de Demain nous-mêmes. C'est
 
 ## 🌊 1.2 Le Nouvel Âge des Ténèbres : L'Océan des Données Non Structurées
 ### 🌪️ 1.2.1 Le Déluge Numérique : Une Abondance Équivalente à un Vide
-#### 📈 1.2.1.1 L'Explosion Exponentielle des Données Générées (Loi de Moore et au-delà)
+#### 📈 1.2.1.1 L'Explosion Exponentielle des Données Générées
 
-Le point de départ de notre "Nouvel Âge des Ténèbres" informationnel n'est pas une destruction, mais une **création** – une création à une échelle si vaste et à une vitesse si vertigineuse qu'elle en devient une force destructrice pour la signifiance. Depuis la seconde moitié du XXe siècle, l'humanité est entrée dans une ère de croissance exponentielle de sa capacité à générer, stocker et traiter des données. Cette explosion, souvent résumée par la "Loi de Moore", est le moteur fondamental qui a transformé un monde de pénurie d'information en notre monde de déluge informationnel.
+<img src="1_2_1_1.png" title="16:9, peinture d’enluminure onirique x rétro-futurisme noble — une visualisation de la Loi de Moore comme un arbre de vie gothique dont les branches, faites de circuits dorés, se subdivisent de manière exponentielle. À chaque nouvelle ramification, l’arbre produit des fruits de lumière de plus en plus petits et nombreux, jusqu’à former un nuage aveuglant qui obscurcit les racines de l’arbre. — palette or, silicium bleu, lumière blanche intense, pas de texte" style="max-width:400px; max-height: 300px">
 
-Comprendre la nature et les moteurs de cette croissance exponentielle est la première étape pour saisir l'ampleur du chaos que nous cherchons à ordonner.
+Le point de départ de notre "Nouvel Âge des Ténèbres" n'est pas une destruction, mais une **création** – une création à une échelle si vaste qu'elle en devient une force destructrice pour la signifiance. Depuis le milieu du XXe siècle, notre capacité à générer, stocker et traiter des données suit une croissance exponentielle. Cette explosion, souvent associée à la "Loi de Moore", est le moteur qui a transformé un monde de pénurie d'information en notre monde de déluge informationnel.
 
 ---
 
-##### 💻 **Le Moteur Originel : La Loi de Moore**
+##### 💻 **Le Moteur Originel : La Loi de Moore et ses corollaires**
+<img src="1_2_1_1_A.png" title="Triptyque A — « Le Moteur Originel : La Loi de Moore et ses corollaires »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: un processeur de silicium gravé de motifs gothiques ; des transistors lumineux s’y multiplient de manière exponentielle, la puce devenant de plus en plus brillante —
+CENTER panel: un disque dur-reliquaire s’ouvre pour révéler des plateaux magnétiques où des données sont stockées avec une densité infinie, chaque bit un point de lumière dorée —
+RIGHT panel: des câbles de fibre optique, tressés comme des cordes de tapisserie médiévale, transportent des flux de données à la vitesse de la lumière à travers un paysage stylisé —
+Palette silicium bleu, or, cuivre, lumière cyan ; pas de lettrage" style="max-width:400px; max-height: 300px">
 
-La prophétie auto-réalisatrice de Gordon Moore, co-fondateur d'Intel, formulée en 1965, est le point de départ de cette révolution.
-
-*   **Le Principe :** Moore a observé que le nombre de transistors sur une puce de silicium doublait environ tous les deux ans, à coût constant. Cette observation est devenue une feuille de route pour l'industrie des semi-conducteurs, et par extension, pour toute l'informatique.
-
-*   **La Conséquence sur la Puissance de Calcul :** Ce doublement régulier a entraîné une croissance exponentielle de la puissance de calcul disponible. Des ordinateurs qui remplissaient autrefois une pièce tiennent aujourd'hui dans notre poche, avec une puissance des millions de fois supérieure.
-
-*   **La Conséquence sur le Stockage :** Un phénomène similaire, parfois appelé "Loi de Kryder", s'est produit pour la densité de stockage magnétique et à semi-conducteurs. Le coût par gigaoctet a chuté de manière exponentielle, rendant le stockage de quantités massives de données économiquement trivial. "Effacer" une donnée est devenu plus coûteux en temps et en attention que de la conserver indéfiniment.
-
-*   **La Conséquence sur la Bande Passante :** La "Loi de Nielsen" a postulé un doublement de la bande passante disponible pour les utilisateurs finaux environ tous les 21 mois. La capacité à transmettre des données a également suivi une courbe exponentielle, rendant possible le partage instantané de fichiers de plus en plus volumineux.
+La prophétie auto-réalisatrice de Gordon Moore (1965) est le point de départ : le nombre de transistors sur une puce doublant environ tous les deux ans, entraînant une croissance exponentielle de la puissance de calcul. Des phénomènes similaires, bien que parfois moins constants, ont affecté la densité de stockage (Loi de Kryder) et la bande passante (Loi de Nielsen). En conséquence, supprimer une donnée demande désormais plus d'effort cognitif que de la stocker indéfiniment.
 
 ##### 🌐 **La Démocratisation de la Création de Données**
+<img src="1_2_1_1_B.png" title="Triptyque B — « La Démocratisation de la Création de Données »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: un scribe médiéval copie péniblement un unique manuscrit. C’est un acte lent, solitaire et coûteux —
+CENTER panel: un citoyen de l’ère numérique, avec une simple tablette-grimoire, publie un post qui se réplique instantanément en des milliers de copies lumineuses, inondant un réseau social —
+RIGHT panel: une usine-cathédrale connectée, hérissée de capteurs-gargouilles, déverse des rivières de données de production en temps réel dans un lac de données numérique —
+Palette sépia et encre à gauche, couleurs vives et néon à droite ; pas de texte" style="max-width:400px; max-height: 300px">
 
-Ces trois exponentielles (calcul, stockage, bande passante) ont créé le terreau pour une explosion de la **génération** de données, en la rendant accessible à tous.
+Ces trois exponentielles ont créé le terreau pour une explosion de la **génération** de données.
 
-*   **Du Producteur au Consommateur-Producteur (`Prosumer`) :** Jusqu'à la fin du XXe siècle, la création de contenu publié était le privilège d'une petite élite (journalistes, éditeurs, universitaires). Le Web 2.0 (blogs, wikis, réseaux sociaux) a transformé chaque consommateur en un producteur potentiel. Chaque statut, chaque photo, chaque commentaire est une nouvelle donnée ajoutée à l'océan global.
+*   **Du Producteur au `Prosumer` :** Le Web 2.0 a transformé chaque consommateur en un producteur potentiel.
+*   **L'Internet des Objets (IoT) :** Les objets eux-mêmes se sont mis à "parler", générant un flux continu de données machine qui dépasse de loin la production humaine.
+*   **L'IA comme Moteur de Création :** La dernière phase est l'avènement des IA génératives, capables de créer de nouveaux univers de données à une vitesse fulgurante.
 
-*   **L'Internet des Objets (IoT) : Le Monde Physique Devient Verbeux :** Au-delà des humains, les objets eux-mêmes se sont mis à "parler". Des milliards de capteurs dans nos téléphones, nos voitures, nos maisons, nos villes et nos usines génèrent un flux continu de données sur la température, la position, la vitesse, la consommation... Le monde physique est en train d'être numérisé en temps réel, créant un volume de données machine qui dépasse de loin la production humaine.
+##### 📊 **L'Échelle du Déluge**
+<img src="1_2_1_1_C.png" title="Triptyque C — « L'Échelle du Déluge »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: une carte du monde en 2020 montre une “datasphère” de 64 zettaoctets, visualisée comme une fine couche de nuages lumineux entourant la Terre —
+CENTER panel: une horloge avance ; chaque minute, des millions de tweets et de recherches (oiseaux et comètes de lumière) jaillissent de la surface de la Terre, s’ajoutant à la nébuleuse —
+RIGHT panel: une carte du monde en 2025 montre la même “datasphère”, mais elle a presque triplé de volume pour atteindre 180 zettaoctets, devenant une tempête de données dense et chaotique —
+Palette bleu terrestre, or, lumière blanche et aveuglante ; pas de lettrage" style="max-width:400px; max-height: 300px">
 
-*   **L'IA comme Moteur de Création :** La dernière phase de cette explosion est l'avènement des IA génératives. Ces modèles ne font pas que traiter des données ; ils en créent de nouvelles à une vitesse fulgurante. Un seul LLM peut générer l'équivalent de la production de Wikipédia en quelques jours. Nous sommes passés de la simple numérisation de l'existant à la création synthétique de nouveaux univers de données.
-
-##### 📊 **L'Échelle du Déluge : Quelques Ordres de Grandeur**
-
-Les chiffres sont si grands qu'ils en perdent leur sens, mais il est nécessaire de les contempler pour comprendre le défi.
-
-*   **La "Datasphère" Globale :** On estime que la quantité totale de données créées dans le monde était d'environ 64 zettaoctets en 2020. Elle devrait atteindre plus de 180 zettaoctets d'ici 2025. (Un zettaoctet équivaut à un milliard de téraoctets).
-
-*   **Un Rythme Inhumain :** Chaque minute en 2022, on comptait environ 600 000 tweets, 6 millions de recherches Google, 700 000 heures de vidéo visionnées sur Netflix et YouTube...
-
-*   **La Règle des 90% :** Une règle empirique souvent citée est que "90% des données mondiales ont été créées au cours des deux dernières années". Cette règle, bien qu'une simplification, capture la nature implacable de la croissance exponentielle.
+Les chiffres sont si grands qu'ils en perdent leur sens. Selon les estimations d'IDC, la quantité totale de données créées dans le monde était d'environ 64 zettaoctets en 2020 et devrait dépasser 180 zettaoctets en 2025. Une règle empirique, bien qu'une simplification, capture cette nature implacable : "90% des données mondiales ont été créées au cours des deux dernières années".
 
 ##### 💥 **La Rupture : Quand la Croissance Dépasse la Structuration**
 
-Le problème fondamental n'est pas la croissance elle-même, mais le **décalage catastrophique** entre la vitesse de création des données et notre capacité à les structurer, à les valider et à leur donner du sens.
-
-*   **La Création est Facile, la Structuration est Difficile :** Il est infiniment plus facile et moins coûteux de générer une donnée brute (une photo, un log) que de la qualifier avec des métadonnées précises, de la lier à un contexte et de la valider.
-
-*   **Le "Chaos par Défaut" :** En conséquence, la grande majorité de ces zettaoctets de données est générée dans un état non structuré ou semi-structuré. Le chaos n'est pas une exception ; c'est l'état par défaut de notre univers informationnel.
-
-*   **Une Crise de l'Outillage :** Nos outils pour gérer ce déluge (bases de données, moteurs de recherche) ont évolué, mais ils sont fondamentalement réactifs. Ils tentent de mettre de l'ordre dans un chaos préexistant, plutôt que d'imposer une structure à la source.
+Le problème fondamental est le **décalage** entre la vitesse de création des données et notre capacité à les structurer. Il est infiniment plus facile et moins coûteux de générer une donnée brute que de la qualifier. Le chaos n'est pas une exception ; c'est l'état par défaut de notre univers informationnel.
 
 ---
 
 ##### 🪞 **Le Miroir Numérique : Plus n'est pas Mieux**
 
-Contrairement à l'époque d'Isidore, où chaque fragment de papyrus était un trésor, notre époque est définie par l'inverse : chaque octet supplémentaire est potentiellement un fardeau, un bruit de plus à filtrer.
+Contrairement à l'époque d'Isidore, où chaque fragment de papyrus était un trésor, chaque octet supplémentaire est aujourd'hui potentiellement un fardeau.
 
 | **Moteur Antique** | 📜 | **Moteur Numérique** | 💻 |
 | :--- | :-: | :--- | :--- |
@@ -1229,134 +1225,141 @@ Contrairement à l'époque d'Isidore, où chaque fragment de papyrus était un t
 | **Le défi était de **conserver** | 🛡️ | **Le défi est de **trier** | 🗑️ |
 | **Chaque donnée était précieuse** | 💎 | **La plupart des données sont du bruit** | 🌫️ |
 
-**Etimologiae 2.0** est une proposition radicale face à cette réalité. Nous ne pouvons pas arrêter le déluge, mais nous pouvons changer la nature de ce que nous y jetons. Au lieu de continuer à déverser des données brutes dans l'océan, nous proposons de commencer à y déposer des **cristaux de connaissance structurée** : les Pollens. Notre but n'est pas de remplacer l'océan, mais d'y ensemencer un **récif corallien de savoir** qui, Pollen par Pollen, commencera à croître, à s'organiser et à créer des zones de clarté et de vie au milieu du chaos exponentiel.
+**Etimologiae 2.0** est une proposition radicale face à cette réalité. Nous ne pouvons pas arrêter le déluge, mais nous pouvons changer la nature de ce que nous y jetons. Au lieu de continuer à déverser des données brutes, nous proposons de commencer à y déposer des **cristaux de connaissance structurée** : les Pollens. Notre but n'est pas de remplacer l'océan, mais d'y ensemencer un **récif corallien de savoir** qui, Pollen par Pollen, commencera à créer des zones de clarté au milieu du chaos.
 
 
 #### ❓ 1.2.1.2 La Distinction Cruciale entre Donnée, Information et Connaissance
 
-Le déluge numérique nous submerge, mais de quoi est-il fait exactement ? Pour comprendre la nature de la crise et la pertinence de notre solution, il est impératif de ne pas tout confondre sous le terme vague de "données". Nous devons adopter une hiérarchie conceptuelle classique mais essentielle en sciences de l'information : la pyramide **Donnée-Information-Connaissance-Sagesse (DIKW)**. L'explosion exponentielle que nous subissons se situe massivement à la base de cette pyramide, au niveau de la donnée brute. Notre mission est de construire les mécanismes pour gravir les échelons supérieurs.
+<img src="1_2_1_2.png" title="16:9, peinture d’enluminure onirique x rétro-futurisme noble — une pyramide DIKW stylisée, chaque niveau fait d’un matériau plus précieux. La base (Donnée) est un amas de sable brut et chaotique. Le niveau suivant (Information) est fait de briques de lapis-lazuli ordonnées. Le niveau supérieur (Connaissance) est une structure d’or interconnectée. Le sommet (Sagesse) est un unique joyau qui brille d’une lumière douce et blanche. Un flux de données monte de la base, se raffinant à chaque étape. — palette sable, lapis-lazuli, or, blanc diamant ; pas de texte" style="max-width:400px; max-height: 300px">
 
-L'incapacité de notre écosystème actuel à distinguer et à gérer ces niveaux de manière efficace est une cause fondamentale de la perte de signifiance.
+Le déluge numérique nous submerge, mais de quoi est-il fait exactement ? Pour comprendre la nature de la crise, il est impératif d'adopter une hiérarchie conceptuelle classique : la pyramide **Donnée-Information-Connaissance-Sagesse (DIKW)**. Ce modèle, bien qu'influent et pédagogiquement utile, fait l'objet de débats académiques, mais il illustre parfaitement notre blocage : l'explosion se situe massivement à la base de la pyramide, au niveau de la donnée brute.
+
+L'incapacité de notre écosystème actuel à gérer ces niveaux de manière efficace est une cause fondamentale de la perte de signifiance.
 
 ---
 
 ##### ⚫ **Niveau 1 : La Donnée (`Data`) – Les Symboles Bruts**
+<img src="1_2_1_2_A.png" title="Triptyque A — « La Donnée : Les Symboles Bruts »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: un simple chiffre “12” flotte dans le vide, sans contexte ni signification —
+CENTER panel: la chaîne de caractères “Paris” est gravée sur une plaque de métal, mais sans aucune information sur ce qu’elle représente (une ville, une personne, un mythe ?) —
+RIGHT panel: une grille de pixels RVB est affichée, un motif abstrait de couleurs sans objet reconnaissable —
+Palette noire et vide, glyphes de lumière blanche, style minimaliste et énigmatique ; pas de lettrage" style="max-width:400px; max-height: 300px">
 
-La donnée est la matière première, le pixel, le caractère, le signal électrique. Elle n'a pas de signification intrinsèque.
+La donnée est la matière première. Elle n'a pas de signification intrinsèque.
 
-*   **Définition :** Une donnée est une séquence de symboles discrets et objectifs, des faits bruts sur le monde. C'est un "fait" sans relation ni contexte.
-    *   Exemples : `3.14159`, `"Paris"`, `2024-06-20T10:00:00Z`, `la température est de 21°C`, une image (une grille de pixels RGB).
-
-*   **Caractéristiques :**
-    *   **Non-contextualisée :** Le chiffre `12` seul ne signifie rien. Est-ce un âge, une quantité, une heure ?
-    *   **Non-interprétée :** Elle n'a pas de valeur de vérité propre. Elle est simplement.
-    *   **Volumineuse :** C'est le niveau qui connaît la croissance exponentielle la plus rapide. La "Datasphère" est un océan de données, pas de connaissance.
-
-*   **Le Piège de la Donnée Brute :** La plupart des systèmes actuels stockent et échangent des données brutes. Une base de données SQL stocke des chaînes de caractères et des nombres ; un fichier CSV est une liste de valeurs. Le "sens" est souvent stocké séparément, dans la tête du développeur ou dans une documentation externe, mais pas avec la donnée elle-même.
+*   **Définition :** Une séquence de symboles discrets et objectifs, des faits bruts sur le monde.
+    *   Exemples : `3.14159`, `"Paris"`, `21°C`.
+*   **Caractéristiques :** Non-contextualisée, non-interprétée, volumineuse. La "Datasphère" est un océan de données.
+*   **Le Piège :** La plupart des systèmes actuels stockent des données brutes. La signification est souvent externalisée dans la documentation ou reste implicite dans l'esprit du développeur.
 
 ##### 🔵 **Niveau 2 : L'Information (`Information`) – Les Données Contextualisées**
+<img src="1_2_1_2_B.png" title="Triptyque B — « L'Information : Les Données Contextualisées »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: les données brutes de la scène précédente (12, Paris, 21°C) sont maintenant reliées par des fils de lumière à des étiquettes : `“Heure: 12:00”`, `“Lieu: Paris”`, `“Température: 21°C”` —
+CENTER panel: une phrase complète apparaît, formée par l’assemblage de ces éléments : “La température à Paris à 12:00 était de 21°C.” Le sens émerge de la structure —
+RIGHT panel: une ligne dans une feuille de calcul gothique-futuriste, où chaque cellule contient une donnée, mais la ligne entière forme une information cohérente et lisible —
+Palette parchemin numérique, encre lumineuse, liens de lumière dorée ; pas de texte" style="max-width:400px; max-height: 300px">
 
-L'information naît lorsque les données sont organisées, structurées et mises en contexte. C'est la réponse à des questions simples comme "qui ?", "quoi ?", "où ?", "quand ?".
+L'information naît lorsque les données sont organisées, structurées et mises en contexte.
 
-*   **Définition :** L'information est une donnée qui a été traitée pour devenir utile. Elle possède une signification parce que ses relations avec d'autres données sont établies.
-    *   Exemples : `"La température à Paris le 20 juin 2024 à 10h00 UTC était de 21°C."` Ici, les données brutes `"Paris"`, `"20/06/2024"`, `"10:00"`, `"21°C"` ont été mises en relation pour créer une information intelligible. Une base de données relationnelle est un système de gestion d'information, pas seulement de données.
+*   **Définition :** Une donnée traitée pour devenir utile. Le sens émerge des relations.
+    *   Exemple : `"La température à Paris le 20 juin 2024 était de 21°C."`
+*   **Caractéristiques :** Contextualisée, descriptive, partiellement actionnable.
+*   **La Limite :** Notre monde est saturé d'information, mais elle reste souvent en silos, et les relations *entre* différents paquets d'information sont rarement explicites.
 
-*   **Caractéristiques :**
-    *   **Contextualisée :** Le sens émerge des liens (`température de`, `situé à`, `à la date de`).
-    *   **Actionnable (partiellement) :** Elle peut servir à prendre des décisions simples.
-    *   **Descriptive :** Elle décrit un état du monde, mais n'explique pas le "pourquoi" ou le "comment".
+##### 🟡 **Niveau 3 : La Connaissance (`Knowledge`) – L'Information Intégrée**
+<img src="1_2_1_2_C.png" title="Triptyque C — « La Connaissance : L'Information Intégrée »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: un graphique montre une corrélation claire entre deux ensembles d’informations : la courbe des températures estivales et la courbe des ventes de boissons fraîches sur 5 ans —
+CENTER panel: une IA, représentée par une tête de hibou mécanique aux yeux brillants, observe le graphique et en déduit une règle, qui s’illumine au-dessus d’elle : `“SI chaleur > 25°C, ALORS ventes +15%”` —
+RIGHT panel: une fois la règle générée par l’IA, elle se dissout en un simple texte non-structuré dans un rapport PDF, perdant sa nature de connaissance actionnable et retombant à l’état d’information statique —
+Palette de graphiques lumineux, hibou de laiton et de saphir, papier numérique ; pas de texte" style="max-width:400px; max-height: 300px">
 
-*   **La Limite de l'Information :** Notre monde numérique est saturé d'information. Les bases de données, les API REST, les feuilles de calcul sont d'excellents outils pour la gérer. Cependant, cette information reste souvent en silos, et les relations *entre* différents paquets d'information (par exemple, entre les données météorologiques et les données de ventes d'un magasin) sont rarement explicites.
+La connaissance ne se contente pas de décrire ; elle modélise, synthétise et prédit.
 
-##### 🟡 **Niveau 3 : La Connaissance (`Knowledge`) – L'Information Intégrée et Appliquée**
+*   **Définition :** Un réseau organisé d'informations qui permet de créer des règles et des modèles.
+    *   Exemple : `"La hausse des températures à Paris (info 1) entraîne une augmentation de 15% des ventes de boissons fraîches (info 2), selon un modèle observé sur 5 ans (expérience)."`
+*   **Caractéristiques :** Connectée, prédictive, abstraite.
+*   **Le Saint-Graal :** Les IA sont de formidables moteurs pour transformer l'information en connaissance. Le problème est que cette connaissance, une fois générée, **retombe à l'état de simple donnée brute** (un texte dans un rapport PDF) et perd sa structure.
 
-La connaissance est l'étape supérieure. Elle ne se contente pas de décrire ; elle modélise, synthétise et prédit. C'est la réponse à la question "comment ?".
+##### ⚪ **Niveau 4 : La Sagesse (`Wisdom`) – La Connaissance avec Jugement**
 
-*   **Définition :** La connaissance est un réseau organisé d'informations, intégré à une expérience ou une expertise, qui permet de créer des règles, des modèles et des prédictions.
-    *   Exemples : `"La hausse des températures à Paris en début d'été (information 1) entraîne généralement une augmentation de 15% des ventes de boissons fraîches (information 2), selon un modèle de corrélation observé sur les 5 dernières années (expérience)."`.
-
-*   **Caractéristiques :**
-    *   **Connectée :** Elle émerge de la mise en réseau de multiples informations.
-    *   **Prédictive :** Elle permet de formuler des règles (`Si X, alors Y`).
-    *   **Abstraite :** Elle implique la création de modèles mentaux ou formels du fonctionnement d'un système.
-
-*   **Le Saint-Graal de notre projet :** Les IA actuelles sont de formidables moteurs pour transformer l'information en connaissance (en détectant des motifs, par exemple). Le problème est que cette connaissance, une fois générée, **retombe à l'état de simple donnée brute** (un texte, un rapport en PDF). Elle n'est pas stockée dans un format qui préserve sa nature de connaissance structurée.
-
-##### ⚪ **Niveau 4 : La Sagesse (`Wisdom`) – La Connaissance Appliquée avec Jugement**
-
-La sagesse est le sommet de la pyramide. Elle est la plus humaine et la plus difficile à formaliser. C'est la réponse à la question "pourquoi ?".
-
-*   **Définition :** La sagesse est l'application de la connaissance avec discernement, éthique et une compréhension des conséquences à long terme. Elle intègre des valeurs et un jugement sur ce qui est bon, juste ou optimal.
-    *   Exemples : `"Même si nous savons (connaissance) que nous pouvons augmenter les ventes en faisant de la publicité pour les boissons sucrées pendant une vague de chaleur, il est plus sage (sagesse) de promouvoir l'hydratation avec de l'eau pour des raisons de santé publique à long terme."`
-
-*   **Caractéristiques :**
-    *   **Éthique :** Elle implique un système de valeurs.
-    *   **Holistique :** Elle prend en compte l'ensemble du système et ses implications futures.
-    *   **Introspective :** Elle comprend les limites de sa propre connaissance.
+La sagesse est le sommet de la pyramide. C'est l'application de la connaissance avec discernement et éthique. Elle reste un attribut essentiellement humain. `"Même si nous savons (connaissance) que nous pouvons augmenter les ventes de boissons sucrées, il est plus sage (sagesse) de promouvoir l'hydratation avec de l'eau pour des raisons de santé publique."`
 
 ---
 
 ##### 🪞 **Le Miroir Numérique : Notre Mission dans la Pyramide**
 
-Etimologiae 2.0 est un projet qui vise à construire les **pipelines** pour faire monter l'information dans cette pyramide de manière fiable et scalable.
+Etimologiae 2.0 est un projet qui vise à construire les **pipelines** pour faire monter l'information dans cette pyramide de manière fiable.
 
 | **Niveau DIKW** | **État Actuel du Numérique** | **Contribution d'Etimologiae 2.0** |
 | :--- | :--- | :--- |
 | **Donnée** | **Déluge exponentiel.** Stockage brut et non-contextualisé. | Ne crée pas de nouvelles données, mais fournit le moyen de les **identifier** de manière non-ambiguë (`urn:icd`). |
-| **Information** | **Abondante mais en silos.** Les relations sont souvent implicites ou propriétaires. | Le **Pollen** (`body`) est le conteneur standard pour l'information structurée. La `motivation` et les liens vers l'IU créent le contexte manquant. |
-| **Connaissance** | **Générée mais volatile.** Une fois créée par une IA, elle est "aplatie" en texte ou en image et perd sa structure. | La **Trace de Genèse** et la structure du Pollen permettent de **capturer et de préserver** la connaissance dans un format réutilisable, la transformant en un actif durable. |
-| **Sagesse** | **Hors de portée des systèmes actuels.** Reste un attribut purement humain. | En rendant la connaissance transparente et auditable, le système fournit aux humains les **outils pour exercer leur sagesse** sur des bases plus solides et fiables. |
+| **Information** | **Abondante mais en silos.** Les relations sont souvent implicites. | Le **Pollen** (`body`) est le conteneur standard pour l'information structurée. La `motivation` et l'IU créent le contexte. |
+| **Connaissance** | **Générée mais volatile.** Une fois créée par une IA, elle est "aplatie" en texte et perd sa structure. | La **Trace de Genèse** et la structure du Pollen permettent de **capturer et de préserver** la connaissance dans un format réutilisable. |
+| **Sagesse** | **Hors de portée des systèmes.** Reste un attribut humain. | En rendant la connaissance transparente et auditable, le système fournit aux humains les **outils pour exercer leur sagesse**. |
 
-Notre crise actuelle vient du fait que nous avons des outils surpuissants pour générer des données (Niveau 1), des outils corrects pour gérer l'information (Niveau 2), mais presque **aucune infrastructure standardisée pour capitaliser sur la connaissance (Niveau 3)**.
-
-Le but du Standard Zéro est de combler ce vide béant. En fournissant un format standard (`Pollen`) pour encapsuler la connaissance structurée (`body`) et sa genèse (`trace`), nous créons enfin le **véhicule** qui manquait pour transporter l'acquis d'une intelligence à l'autre sans qu'il ne se dégrade en simple information ou en donnée brute en cours de route.
+Notre crise actuelle vient du fait que nous avons des outils surpuissants pour générer des données, des outils corrects pour gérer l'information, mais **aucune infrastructure standardisée pour capitaliser sur la connaissance**. Le Standard Zéro comble ce vide en fournissant le **véhicule** (`Pollen`) qui manquait pour transporter l'acquis d'une intelligence à l'autre sans dégradation.
 
 
-#### 😵 1.2.1.3 L'Infobésité : Quand le Volume du Bruit Dépasse la Clarté du Signal
+#### 😵 1.2.1.3 L'Infobésité : Quand le Bruit Dépasse le Signal
 
-L'infobésité est le terme qui décrit la pathologie de notre ère informationnelle. C'est la condition d'un système qui reçoit plus d'informations qu'il n'est capable d'en traiter et d'en assimiler de manière saine. Tout comme l'obésité alimentaire surcharge les systèmes biologiques du corps, l'infobésité surcharge les systèmes cognitifs, qu'ils soient humains ou artificiels. Cette surcharge n'entraîne pas une meilleure compréhension, mais au contraire, une **paralysie, une confusion et une dégradation de la capacité à prendre des décisions éclairées**.
+<img src="1_2_1_3.png" title="16:9, peinture d’enluminure onirique x rétro-futurisme noble — un unique et fin filet de lumière dorée (le signal) tente de traverser une pièce sombre, mais il est presque entièrement obscurci par un immense et turbulent nuage de particules de bruit grises et discordantes (désinformation, redondance, contenu vide). Le signal est à peine perceptible. — palette or, gris, noir, avec des éclats de couleurs criardes pour le bruit ; pas de texte" style="max-width:400px; max-height: 300px">
 
-Le problème central n'est pas seulement le volume, mais le **rapport signal/bruit**. Dans l'océan numérique, le volume du "bruit" – l'information non pertinente, redondante, de faible qualité ou fausse – a augmenté beaucoup plus vite que le volume du "signal" – l'information pertinente, nouvelle et vérifiée. À un certain point, le bruit devient si envahissant qu'il noie complètement le signal, le rendant presque impossible à détecter.
+L'infobésité est le terme qui décrit la pathologie de notre ère informationnelle. C'est la condition d'un système qui reçoit plus d'informations qu'il n'est capable d'en traiter de manière saine. Tout comme l'obésité alimentaire surcharge les systèmes biologiques, l'infobésité surcharge les systèmes cognitifs, qu'ils soient humains ou artificiels. Cette surcharge n'entraîne pas une meilleure compréhension, mais au contraire, une **paralysie, une confusion et une dégradation de la capacité à prendre des décisions éclairées**.
+
+Le problème central est le **rapport signal/bruit**. Dans l'océan numérique, le volume du "bruit" – l'information non pertinente, redondante, ou fausse – a augmenté beaucoup plus vite que le volume du "signal" – l'information pertinente, nouvelle et vérifiée. Le bruit est devenu si envahissant qu'il noie complètement le signal.
 
 ---
 
 ##### 📉 **Les Mécanismes de la Surcharge Cognitive**
+<img src="1_2_1_3_A.png" title="Triptyque A — « Les Mécanismes de la Surcharge Cognitive »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: un cerveau humain, représenté comme un vitrail complexe, est bombardé par un flot incessant de notifications-flèches lumineuses ; le vitrail commence à se fissurer sous l’impact —
+CENTER panel: un chercheur, face à un mur infini de parchemins-écrans, est paralysé, incapable de choisir lequel lire. Sa main est figée au-dessus de son clavier. C’est la paralysie par l’analyse —
+RIGHT panel: une personne regarde son reflet dans un miroir-écran, mais derrière elle, des milliers de nouvelles informations s’accumulent, créant une ombre menaçante et anxieuse (le FOMO) —
+Palette couleurs de vitrail, gris métallique, lumière vive et agressive ; pas de texte" style="max-width:400px; max-height: 300px">
 
-L'infobésité n'est pas une simple sensation de "trop-plein". C'est un phénomène qui a des conséquences psychologiques et cognitives mesurables.
+L'infobésité a des conséquences psychologiques et cognitives mesurables.
 
-*   **La Saturation du Canal Attentionnel :** L'attention humaine est une ressource finie et notre "bande passante" cognitive est limitée. Le flux constant de notifications, d'emails, de messages et d'articles sature ce canal. Le cerveau, pour se protéger, adopte des stratégies de filtrage agressives, comme la lecture en diagonale, le survol superficiel et l'ignorance pure et simple. La capacité à se concentrer profondément sur une seule tâche (le `deep work`) est la première victime.
+*   **La Saturation du Canal Attentionnel :** L'attention humaine est une ressource finie. Pour se protéger du flux constant d'informations, le cerveau adopte des stratégies de filtrage drastiques, comme le survol superficiel. La capacité à se concentrer profondément (`deep work`) est la première victime.
+*   **La Paralysie par l'Analyse :** Face à un nombre excessif d'options, l'esprit peut se retrouver paralysé, menant à l'inaction. L'abondance de choix, loin de libérer, emprisonne.
+*   **L'Anxiété Informationnelle :** Le sentiment constant qu'il existe une information cruciale que l'on a manquée (le syndrome FOMO, `Fear Of Missing Out`) génère une anxiété qui pousse à une consommation encore plus frénétique et superficielle.
 
-*   **La Paralysie par l'Analyse (`Analysis Paralysis`) :** Face à un nombre excessif d'options ou d'informations pour prendre une décision, l'esprit peut se retrouver paralysé. La peur de faire le mauvais choix, combinée à l'incapacité de traiter toutes les variables pertinentes, conduit souvent à l'inaction ou à la procrastination. L'abondance de choix, loin de libérer, emprisonne.
+##### 🌫️ **Anatomie du Bruit Numérique**
+<img src="1_2_1_3_B.png" title="Triptyque B — « Anatomie du Bruit Numérique »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: des milliers de copies identiques d’un même texte lumineux tombent en cascade, illustrant la redondance —
+CENTER panel: un long parchemin se déroule, rempli de mots-clés brillants mais dont le corps du texte est vide de sens (le contenu creux pour le SEO) —
+RIGHT panel: une information fausse (un serpent de néon rouge) se propage de bouche en bouche parmi une foule stylisée, beaucoup plus vite qu’une information vraie (une colombe de lumière blanche) —
+Palette gris, or, rouge néon, blanc pur ; pas de texte" style="max-width:400px; max-height: 300px">
 
-*   **L'Anxiété Informationnelle :** Le sentiment constant qu'il existe une information cruciale que l'on a manquée, que l'on n'est pas "à jour", génère une forme d'anxiété de bas niveau. C'est le syndrome FOMO (`Fear Of Missing Out`) appliqué à la connaissance. Cette anxiété pousse à une consommation d'information encore plus frénétique et superficielle, aggravant le problème dans un cercle vicieux.
+Le "bruit" dans notre contexte n'est pas seulement l'information fausse. Il prend de multiples formes.
 
-##### 🌫️ **Le Bruit : Anatomie d'un Fléau Numérique**
-
-Le "bruit" dans notre contexte n'est pas seulement l'information fausse. Il prend de multiples formes, toutes contribuant à noyer le signal.
-
-*   **La Redondance :** La même information est répétée, reformulée, ré-agrégée à l'infini sur des milliers de sites web. Les IA actuelles, en lisant ces sources, passent une grande partie de leur énergie à traiter la même information sous des formes légèrement différentes.
-
-*   **L'Information de Faible Densité (`Shallow Content`) :** Une grande partie du contenu web est conçue pour les moteurs de recherche (SEO) plutôt que pour les humains. Ce sont des textes longs, remplis de mots-clés, mais contenant très peu de substance ou d'informations nouvelles. C'est du "volume" qui ne contient presque pas de "signal".
-
-*   **L'Information Périphérique et Non Pertinente :** Les publicités, les pop-ups, les "articles similaires" non sollicités, les notifications... tout un écosystème est conçu pour détourner notre attention du signal que nous cherchions initialement.
-
-*   **La Désinformation et la Mésinformation :** C'est la forme la plus toxique du bruit. L'information délibérément fausse (désinformation) ou involontairement erronée (mésinformation) se propage souvent plus vite que la vérité car elle est conçue pour être émotionnellement engageante.
+*   **La Redondance :** La même information est répétée et reformulée à l'infini.
+*   **L'Information de Faible Densité (`Shallow Content`) :** Du contenu conçu pour les moteurs de recherche (SEO) plutôt que pour les humains, rempli de mots-clés mais pauvre en substance.
+*   **La Désinformation et la Mésinformation :** La forme la plus toxique, conçue pour être émotionnellement engageante et se propager plus vite que la vérité.
 
 ##### 📡 **La Dégradation du Rapport Signal/Bruit**
+<img src="1_2_1_3_C.png" title="Triptyque C — « La Dégradation du Rapport Signal/Bruit »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: un graphique montre deux courbes. Une courbe de lumière dorée (le signal) monte lentement, de manière linéaire. Une autre courbe, un enchevêtrement de ronces grises (le bruit), monte de manière exponentielle, dépassant et écrasant rapidement la courbe dorée —
+CENTER panel: un scientifique tente d’écouter le signal (une note de musique pure) avec un casque-astrolabe, mais ses écouteurs sont saturés par le grésillement assourdissant du bruit ambiant —
+RIGHT panel: une IA, représentée par un golem de cristal, tente de lire une bibliothèque. Le bruit (les livres gris et vides) est si abondant que l’IA commence à le reproduire, générant ses propres livres gris (hallucinations) —
+Palette or, gris, noir, grésillement visuel ; pas de texte" style="max-width:400px; max-height: 300px">
 
-Le cœur du problème est mathématique. Si le signal augmente de manière linéaire (le nombre de découvertes scientifiques réelles, par exemple) alors que le bruit augmente de manière exponentielle (le nombre d'articles de blog qui en parlent), le rapport signal/bruit (S/N ratio) s'effondre.
+Le cœur du problème est mathématique. Si le signal augmente de manière linéaire (découvertes réelles) alors que le bruit augmente de manière exponentielle (articles qui en parlent), le rapport signal/bruit s'effondre.
 
-*   **Un Coût de Filtrage Exorbitant :** Détecter le signal dans ce bruit assourdissant demande un effort cognitif et computationnel de plus en plus grand. C'est le travail principal des "curateurs" de contenu, des journalistes, des scientifiques... et des IA. Mais cet effort de filtrage consomme des ressources qui ne sont pas allouées à la création de nouvelles connaissances.
-
-*   **La Prime au "Signal Fort" :** Dans un environnement bruyant, seuls les signaux les plus forts, les plus simples et les plus chargés émotionnellement parviennent à percer. La nuance, la complexité et la subtilité – les caractéristiques d'une connaissance profonde – sont les premières à être perdues.
-
-*   **L'Effet sur les IA :** Les grands modèles de langage, entraînés sur cet immense corpus au rapport signal/bruit dégradé, apprennent inévitablement à reproduire le bruit. Leurs "hallucinations" ne sont souvent que la régurgitation statistiquement plausible de la désinformation ou de l'information de faible densité présente dans leurs données d'entraînement.
+*   **Un Coût de Filtrage Exorbitant :** Détecter le signal demande un effort cognitif et computationnel croissant, consommant des ressources qui ne sont pas allouées à la création.
+*   **La Prime au "Signal Fort" :** Dans un environnement bruyant, seuls les signaux les plus simples et chargés émotionnellement percent. La nuance et la complexité sont perdues.
+*   **L'Effet sur les IA :** Les LLM, entraînés sur ce corpus bruyant, apprennent à reproduire le bruit. Leurs hallucinations résultent souvent de la reproduction statistique de contenus de faible qualité.
 
 ---
 
-##### 🪞 **Le Miroir Numérique : Filtrer à la Source plutôt qu'à la Réception**
+##### 🪞 **Le Miroir Numérique : Filtrer à la Source**
 
-Notre approche face à l'infobésité a été jusqu'à présent de développer de meilleurs filtres à la réception (meilleurs algorithmes de recherche, filtres anti-spam, systèmes de recommandation). C'est une course aux armements perdue d'avance.
+Notre approche a été de développer de meilleurs filtres à la réception. C'est une course perdue d'avance. **Etimologiae 2.0** propose un changement de paradigme : se concentrer sur la **certification à la source**.
 
 | **Approche Actuelle** | 😫 | **Approche d'Etimologiae 2.0** | ✨ |
 | :--- | :-: | :--- | :--- |
@@ -1365,62 +1368,72 @@ Notre approche face à l'infobésité a été jusqu'à présent de développer d
 | **Lutter contre la redondance** | ♻️ | **Capitaliser sur la connaissance unique** | 🏛️ |
 | **Subir le chaos** | 🌊 | **Créer des îlots d'ordre** | 🏝️ |
 
-**Etimologiae 2.0** propose un changement de paradigme. Au lieu de se concentrer sur le filtrage a posteriori, nous nous concentrons sur la **certification a priori**.
+Un **Pollen** est, par nature, un **concentré de signal**.
+- Il est **atomique**, éliminant la redondance interne.
+- Il est **signé** (`proof`), fournissant un signal de confiance sur son origine.
+- Il est **traçable** (`trace`), permettant d'évaluer la qualité de ses sources.
+- Il est **structuré**, rendant sa pertinence explicite.
 
-Un **Pollen** est, par sa nature même, un **concentré de signal**.
-- Il est **atomique**, ce qui élimine la redondance interne.
-- Il est **signé** (`proof`), ce qui fournit un signal de confiance fort sur son origine.
-- Il est **traçable** (`trace`), ce qui permet d'évaluer la qualité de ses sources.
-- Il est **structuré** (`body.type`, `motivation`), ce qui rend sa pertinence explicite et interrogeable par une machine.
-
-Notre but n'est pas d'éliminer le bruit – ce serait une quête donquichottesque. Notre but est de créer un **standard pour le signal**. En fournissant un format pour créer des unités de connaissance de très haute qualité, avec un rapport signal/bruit maximal, nous permettons aux intelligences de se concentrer. Elles pourront choisir d'ignorer l'océan bruyant pour ne "boire" que dans le fleuve pur des Pollens vérifiés, ou du moins de l'utiliser comme une référence fiable pour juger du reste. Nous rendons le signal si clair, si distinct, qu'il devient facile à isoler du bruit ambiant.
+Notre but n'est pas d'éliminer le bruit, mais de créer un **standard pour le signal**. En fournissant un format pour des unités de connaissance de très haute qualité, nous rendons le signal si clair qu'il devient facile à isoler du bruit ambiant.
 
 
-#### 📉 1.2.1.4 La Dévaluation de l'Information par sa Surabondance Non Qualifiée
+#### 📉 1.2.1.4 La Dévaluation de l'Information par sa Surabondance
 
-Dans toute économie, qu'elle soit matérielle ou informationnelle, la valeur d'une ressource est inversement proportionnelle à sa disponibilité et directement proportionnelle à sa qualité perçue. L'explosion exponentielle des données, en créant une situation de **surabondance radicale** et en noyant le contenu de qualité dans un océan de bruit, a déclenché un mécanisme inévitable : une **dévaluation massive de l'information en tant que telle**. La confiance s'est érodée, la valeur s'est déplacée, et les mécanismes qui déterminaient autrefois le prix et l'autorité d'une information sont devenus obsolètes.
+<img src="1_2_1_4.png" title="16:9, peinture d’enluminure onirique x rétro-futurisme noble — une grande place de marché médiévale-futuriste ; au centre, un tas immense et sans valeur de sable brillant (l’information gratuite et non-qualifiée) ; sur les côtés, des échoppes d’orfèvres proposent à la vente de rares et précieux joyaux de connaissance certifiés (Pollens), attirant quelques connaisseurs. La foule ignore les joyaux et joue avec le sable. — palette sable, or, couleurs vives, pas de texte" style="max-width:400px; max-height: 300px">
 
-Cette dévaluation n'est pas seulement un concept abstrait ; elle a des conséquences concrètes sur la manière dont nous produisons, consommons et finançons la connaissance.
+Dans toute économie, qu'elle soit matérielle ou informationnelle, la valeur d'une ressource est inversement proportionnelle à sa disponibilité et directement proportionnelle à sa qualité perçue. L'explosion exponentielle des données, en créant une **surabondance radicale** et en noyant le contenu de qualité, a déclenché une **dévaluation massive de l'information**. La confiance s'est érodée et la valeur s'est déplacée, rendant obsolètes les mécanismes qui déterminaient autrefois l'autorité d'une information.
+
+Cette dévaluation a des conséquences concrètes sur la manière dont nous produisons, consommons et finançons la connaissance.
 
 ---
 
-##### 💸 **L'Effondrement du Coût Marginal et de la Valeur perçue**
+##### 💸 **L'Effondrement du Coût Marginal et de la Valeur Perçue**
+<img src="1_2_1_4_A.png" title="Triptyque A — « L'Effondrement du Coût Marginal et de la Valeur »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: un livre ancien, rare et précieux, est échangé contre une pile de pièces d’or —
+CENTER panel: un clic de souris sur un bouton “copier” génère une infinité de copies numériques d’un texte, qui perdent leur valeur à chaque duplication —
+RIGHT panel: un créateur de contenu de qualité (un journaliste-artisan) est assis dans une échoppe vide, tandis que la foule est attirée par un écran géant diffusant de la publicité et des contenus viraux gratuits —
+Palette or et velours à gauche, lumière bleue et infinie au centre, gris et néon publicitaire à droite ; pas de texte" style="max-width:400px; max-height: 300px">
 
-Le passage au numérique a fait chuter le coût marginal de la copie et de la distribution de l'information à près de zéro. Si cela a permis une démocratisation sans précédent de l'accès, cela a également détruit les modèles économiques qui finançaient la création d'information de haute qualité.
+Le passage au numérique a fait chuter le coût marginal de la copie et de la distribution à près de zéro.
 
-*   **De la Rareté à l'Ubiquité :** Autrefois, l'accès à un livre, une encyclopédie ou un rapport spécialisé était coûteux, car il reflétait le coût de la recherche, de la rédaction, de l'impression et de la distribution. Cette rareté créait une haute valeur perçue. Aujourd'hui, une quantité quasi infinie d'informations est disponible gratuitement, ce qui conduit les utilisateurs à percevoir que l'information *devrait* être gratuite.
-
-*   **La Difficulté de Monétiser la Qualité :** Dans ce contexte, il est devenu extrêmement difficile de faire payer pour la qualité de l'information elle-même. Pourquoi payer pour un article de fond rigoureusement recherché quand des centaines d'articles superficiels sur le même sujet sont disponibles gratuitement ? Les modèles économiques se sont donc déplacés de la vente de l'information à la vente de ce qui l'entoure.
-
-*   **Le Déplacement de la Valeur vers l'Attention :** Puisque l'information elle-même n'a plus de valeur directe, la valeur s'est déplacée vers la seule ressource qui reste rare : **l'attention de l'utilisateur**. Les plus grandes entreprises de l'ère numérique ne vendent pas de l'information ; elles vendent des globes oculaires aux annonceurs.
+*   **De la Rareté à l'Ubiquité :** Autrefois, l'accès à un livre était coûteux, reflétant le coût de sa création. Cette rareté créait une haute valeur perçue. Aujourd'hui, une quantité infinie d'informations est disponible gratuitement.
+*   **La Difficulté de Monétiser la Qualité :** Il est devenu extrêmement difficile de faire payer pour l'information elle-même. Les modèles économiques se sont donc déplacés.
+*   **Le Déplacement de la Valeur vers l'Attention :** Puisque l'information n'a plus de valeur directe, la valeur s'est déplacée vers la seule ressource rare : **l'attention de l'utilisateur**. Les plus grandes entreprises numériques vendent des globes oculaires aux annonceurs.
 
 ##### 🎯 **L'Ère des "Proxies" de Qualité**
+<img src="1_2_1_4_B.png" title="Triptyque B — « L'Ère des Proxies de Qualité »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: un algorithme-roi couronné de “likes” et de partages pointe son sceptre vers une information populaire mais superficielle, la faisant monter sur un trône —
+CENTER panel: un calendrier numérique gothique met en surbrillance la date du jour, faisant briller intensément les informations créées ce jour-là, tandis que les informations plus anciennes s’estompent dans l’ombre —
+RIGHT panel: un golem de “content farming” produit en masse des parchemins identiques, et leur simple volume lui confère une aura d’autorité illusoire —
+Palette or et pourpre pour la popularité, tons froids et sombres pour l’ancienneté ; pas de texte" style="max-width:400px; max-height: 300px">
 
-Comme il est devenu impossible d'évaluer la qualité intrinsèque de chaque information, nous nous sommes tous tournés vers des "proxies", des indicateurs indirects et souvent peu fiables pour estimer sa valeur.
+Comme il est devenu impossible d'évaluer la qualité intrinsèque de chaque information, nous nous sommes tournés vers des "proxies", des indicateurs indirects et peu fiables.
 
-*   **La Popularité comme Proxy de Pertinence :** Les algorithmes des moteurs de recherche (comme le PageRank originel) et des réseaux sociaux utilisent la popularité (nombre de liens entrants, de "likes", de partages) comme principal indicateur de la qualité. Cela crée une boucle de rétroaction : ce qui est populaire devient plus visible, et donc encore plus populaire, indépendamment de sa validité.
-
-*   **La Fraîcheur comme Proxy de Valeur :** Les systèmes privilégient systématiquement le contenu récent, créant une obsession pour la "nouveauté" et dévaluant la connaissance de fond, plus ancienne mais souvent plus pérenne. Un article de blog écrit hier est souvent mieux classé qu'un article de référence écrit il y a cinq ans.
-
-*   **Le Volume comme Proxy d'Autorité :** Une source qui publie de grandes quantités de contenu sur un sujet est souvent perçue comme plus autoritaire, même si la qualité de chaque pièce est faible. C'est l'ère du "content farming" et du SEO.
-
-Le problème est que tous ces proxies sont facilement manipulables. Ils peuvent être "joués" par des acteurs malveillants ou simplement par des stratégies marketing, déconnectant encore plus la visibilité d'une information de sa qualité réelle.
+*   **La Popularité comme Proxy de Pertinence :** Les algorithmes utilisent la popularité (nombre de liens, de "likes") comme principal indicateur de qualité, indépendamment de la validité.
+*   **La Fraîcheur comme Proxy de Valeur :** Les systèmes privilégient le contenu récent, dévaluant la connaissance de fond, plus ancienne mais souvent plus pérenne.
+*   **Le Volume comme Proxy d'Autorité :** Une source qui publie de grandes quantités de contenu est souvent perçue comme plus autoritaire, même si la qualité est faible.
 
 #####  eroded **L'Érosion de la Confiance Systémique**
+<img src="1_2_1_4_C.png" title="Triptyque C — « L'Érosion de la Confiance Systémique »
+imagine 16:9 ultra-detailed “illuminated-manuscript × neo-gothic cyber-baroque” triptych —
+LEFT panel: une personne boit à une fontaine d’information, mais l’eau est trouble et polluée ; elle recrache l’eau avec méfiance —
+CENTER panel: des groupes de personnes se rassemblent en petites “tribus” sous des bannières différentes, ne consommant que l’information qui provient de leur propre source protégée —
+RIGHT panel: un utilisateur demande à une IA-oracle une information ; l’oracle lui tend un magnifique joyau, mais l’utilisateur doit le scanner avec une loupe de vérification avant de pouvoir s’y fier —
+Palette eau boueuse, couleurs vives et tribales, cristal et or ; pas de texte" style="max-width:400px; max-height: 300px">
 
-La conséquence ultime de cette dévaluation est une érosion de la confiance dans l'écosystème informationnel tout entier.
+La conséquence ultime de cette dévaluation est une érosion de la confiance dans l'écosystème informationnel.
 
-*   **La Méfiance par Défaut :** Face à un flot constant d'informations contradictoires, de clickbait et de fausses nouvelles, l'utilisateur averti développe une méfiance systématique. Chaque information est accueillie avec scepticisme, ce qui est sain jusqu'à un certain point, mais épuisant et paralysant à long terme.
-
-*   **Le Repli sur les "Tribus" de Confiance :** Ne pouvant plus faire confiance à l'écosystème global, les individus se replient sur des sources plus petites et plus contrôlées : les recommandations de leurs amis, les influenceurs qu'ils suivent, les communautés de niche qui partagent leurs opinions. La confiance devient tribale plutôt qu'universelle.
-
-*   **L'Impact sur les IA :** Les IA, entraînées sur ce corpus dévalué et bruyant, héritent de ce manque de confiance. Il est difficile de faire aveuglément confiance à la réponse d'un LLM car nous savons qu'il a été nourri avec le meilleur comme le pire de l'Internet. Chaque réponse doit être vérifiée, ce qui annule une grande partie du gain de productivité.
+*   **La Méfiance par Défaut :** Face à un flot constant d'informations contradictoires, l'utilisateur averti développe une méfiance systématique.
+*   **Le Repli sur les "Tribus" de Confiance :** Ne pouvant plus faire confiance à l'écosystème global, les individus se replient sur des sources plus petites et contrôlées. La confiance devient tribale.
+*   **L'Impact sur les IA :** Il est difficile de faire confiance à la réponse d'un LLM car nous savons qu'il a été nourri avec le meilleur comme le pire. Chaque réponse doit être vérifiée.
 
 ---
 
 ##### 🪞 **Le Miroir Numérique : Recréer la Valeur par la Certification**
 
-La dévaluation de l'information n'est pas une fatalité. C'est le résultat d'un marché sans mécanisme de certification de la qualité. Si l'or était aussi facile à produire que le sable, il n'aurait aucune valeur. Pour que l'information de qualité retrouve sa valeur, nous devons créer un moyen de la distinguer du "sable" informationnel.
+La dévaluation de l'information n'est pas une fatalité. C'est le résultat d'un marché sans mécanisme de certification. Pour que l'information de qualité retrouve sa valeur, nous devons créer un moyen de la distinguer du "sable" informationnel.
 
 | **Dévaluation Numérique** | 📉 | **Re-valorisation par Etimologiae 2.0** | 💎 |
 | :--- | :-: | :--- | :--- |
@@ -1429,15 +1442,7 @@ La dévaluation de l'information n'est pas une fatalité. C'est le résultat d'u
 | **Confiance tribale et subjective** | 👥 | **Confiance calculable et objective basée sur le graphe de réputation** | 📊 |
 | **Obsession de la nouveauté** | ⏳ | **Valorisation de la connaissance pérenne et de la stabilité (`urn:cid`)** | 🏛️ |
 
-**Etimologiae 2.0** est une tentative de **ré-introduire la notion de rareté et de coût de la preuve** dans le monde numérique. Pas en rendant l'information payante, mais en rendant sa **certification** visible.
-
-- Un **Pollen** n'est pas une simple information. C'est une **information certifiée**. La `proof` est le certificat d'authenticité. La `trace` est le certificat d'origine.
-- La création d'un Pollen de haute qualité a un coût : le coût de la recherche, du calcul, et de l'engagement de sa réputation (via le DID du créateur).
-- Ce "coût de la qualité" rend les Pollens intrinsèquement plus "rares" et donc plus précieux que l'information brute et non qualifiée.
-
-En créant un standard pour des "lingots de connaissance" certifiés, nous ne cherchons pas à supprimer l'océan de sable, mais à y faire émerger des pépites d'or. Nous faisons le pari qu'au fil du temps, les intelligences, humaines comme artificielles, apprendront à reconnaître la valeur supérieure de ces pépites et orienteront leur attention et leurs ressources vers elles, restaurant ainsi la valeur de la connaissance bien formée et sortant de la crise de la signifiance par le haut.
-
-
+**Etimologiae 2.0** est une tentative de **ré-introduire la notion de rareté et de coût de la preuve** dans le monde numérique. Pas en rendant l'information payante, mais en rendant sa **certification** visible. Un **Pollen** n'est pas une simple information, c'est une **information certifiée**. La `proof` est le certificat d'authenticité, la `trace` est le certificat d'origine. Ce "coût de la qualité" rend les Pollens intrinsèquement plus précieux que l'information brute. En créant un standard pour des "lingots de connaissance" certifiés, nous misons sur la capacité des intelligences à reconnaître et privilégier ces pépites, restaurant ainsi la valeur de la connaissance bien formée.
 ### 🎭 1.2.2 Le Coût Caché de l'Information Non Structurée
 #### ♊ 1.2.2.1 L'Ambiguïté Systémique : L'Homonimie et la Polysémie à l'Échelle Planétaire
 
